@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="grouproom_description_text">
+                <source>grouproom description text</source>
+                <target>Dieser Raum dient dem Austausch der Gruppe.</target>
+            </trans-unit>
+            <trans-unit id="grouproom_access">
+                <source>grouproom access</source>
+                <target>Er kann nur von Mitgliedern der Gruppe betreten werden.</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>grouproom</source>
+                <target>Gruppenraum</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>grouproom information</source>
+                <target>Rauminformationen</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>grouproom moderators</source>
+                <target>Moderation des Gruppenraums</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>no grouproom</source>
+                <target>Kein Gruppenraum</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>no grouproom description text</source>
+                <target>Zu dieser Gruppe wurde kein Gruppenraum eingerichtet</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>edit grouproom</source>
+                <target>Gruppenraum bearbeiten</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>activate grouproom</source>
+                <target>Gruppenraum aktivieren</target>
+            </trans-unit>
+            <trans-unit id="getGroupRoomAccess">
+                <source>get grouproom access</source>
+                <target>Zugang zu Gruppenraum beantragen</target>
+            </trans-unit>
+            <trans-unit id="restrictedToGroupMembers">
+                <source>access restricted to group members</source>
+                <target>Der Zugang zum Gruppenraum ist auf Gruppenmitglieder beschränkt</target>
+            </trans-unit>
+            <trans-unit id="Template">
+                <source>Template</source>
+                <target>Vorlage</target>
+            </trans-unit>
+            <trans-unit id="Choose a template">
+                <source>Choose a template</source>
+                <target>Vorlage auswählen</target>
+            </trans-unit>
+            <trans-unit id="joinGroupBeforeGrouproom">
+                <source>join group before grouproom</source>
+                <target>Sie müssen der Gruppe beitreten, bevor Sie die Mitgliedschaft in diesem Gruppenraum beantragen können.</target>
+            </trans-unit>
+            <trans-unit id="leaveGrouproomBeforeGroup">
+                <source>leave grouproom before group</source>
+                <target>Sie müssen Ihre Mitgliedschaft in dem Gruppenraum beenden, before Sie aus der Gruppe austreten können.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

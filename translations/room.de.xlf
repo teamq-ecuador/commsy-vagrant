@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="room_general">
+                <source>Workspace</source>
+                <target>Raum</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>One new entry in the last %days% days|%num% new entries in the last %days% days</source>
+                <target>Ein neuer Beitrag in den letzten %days% Tagen|%num% neue Beiträge in den letzten %days% Tagen</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>Page Impressions:</source>
+                <target>Seitenaufrufe:</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>total %total% | active %active%</source>
+                <target>gesamt %total% | aktiv %active%</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Room-Information</source>
+                <target>Raum-Informationen</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Entries:</source>
+                <target>Beiträge:</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>Persons:</source>
+                <target>Personen:</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Moderation:</source>
+                <target>Moderation:</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>list filter</source>
+                <target>Liste einschränken</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>hashtags</source>
+                <target>Schlagwörter</target>
+            </trans-unit>
+             <trans-unit id="11">
+                <source>categories</source>
+                <target>Kategorien</target>
+            </trans-unit>
+             <trans-unit id="12">
+                <source>no content</source>
+                <target>Kein Inhalt vorhanden</target>
+            </trans-unit>
+             <trans-unit id="13">
+                <source>linked entries</source>
+                <target>Zugeordnete Einträge</target>
+            </trans-unit>
+             <trans-unit id="14">
+                <source>no linked items</source>
+                <target>Keine Zuordnungen vorhanden</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>latest entries</source>
+                <target>Die neuesten Einträge in diesem Raum</target>
+            </trans-unit>
+            <trans-unit id="16">
+                <source>latest entries from my rooms</source>
+                <target>Die neuesten Einträge aus meinen Räumen</target>
+            </trans-unit>
+            <trans-unit id="17">
+                <source>no hashtags</source>
+                <target>Keine Schlagwörter vorhanden</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>project</source>
+                <target>Projektraum</target>
+            </trans-unit>
+            <trans-unit id="19">
+                <source>moderation support</source>
+                <target>E-Mail an die Moderation</target>
+            </trans-unit>
+            <trans-unit id="usage-notes">
+                <source>Usage notes</source>
+                <target>Nutzungshinweise</target>
+            </trans-unit>
+            <trans-unit id="room-filter-label-membership">
+                <source>Membership</source>
+                <target>Mitgliedschaft</target>
+            </trans-unit>
+             <trans-unit id="room-filter-label-archived">
+                <source>Archived</source>
+                <target>Archiviert</target>
+            </trans-unit>
+            <trans-unit id="room-nav-title">
+                <source>All rooms</source>
+                <target>Alle Räume</target>
+            </trans-unit>
+            <trans-unit id="list-all-rooms">
+                <source>List all rooms</source>
+                <target>Liste aller Räume</target>
+            </trans-unit>
+            <trans-unit id="room-my-rooms">
+                <source>My rooms</source>
+                <target>Meine Räume</target>
+            </trans-unit>
+            <trans-unit id="list-my-rooms">
+                <source>List my rooms</source>
+                <target>Liste meiner Räume</target>
+            </trans-unit>
+            <trans-unit id="room-filter-label-type">
+                <source>Type</source>
+                <target>Art</target>
+            </trans-unit>
+            <trans-unit id="room-filter-choice-all">
+                <source>All</source>
+                <target>Alle</target>
+            </trans-unit>
+            <trans-unit id="room-filter-choice-project">
+                <source>Project Rooms</source>
+                <target>Projekträume</target>
+            </trans-unit>
+            <trans-unit id="room-filter-choice-community">
+                <source>Community Rooms</source>
+                <target>Gemeinschaftsräume</target>
+            </trans-unit>
+            <trans-unit id="room-grouprooms">
+                <source>Group Rooms</source>
+                <target>Gruppenräume</target>
+            </trans-unit>
+            <trans-unit id="grouproom">
+                <source>grouproom</source>
+                <target>Gruppenraum</target>
+            </trans-unit>
+            <trans-unit id="enter room">
+                <source>enter room</source>
+                <target>Raum betreten</target>
+            </trans-unit>
+            <trans-unit id="room_no_access">
+                <source>no access</source>
+                <target>Kein Zugang</target>
+            </trans-unit>
+            <trans-unit id="become member">
+                <source>become member</source>
+                <target>Mitgliedschaft beantragen</target>
+            </trans-unit>
+            <trans-unit id="description">
+                <source>description</source>
+                <target>Teilnahmegrund</target>
+            </trans-unit>
+            <trans-unit id="link to entry">
+                <source>link to entry</source>
+                <target>Link zum Eintrag</target>
+            </trans-unit>
+            <trans-unit id="search results">
+                <source>search results</source>
+                <target>Suchergebnisse</target>
+            </trans-unit>
+            <trans-unit id="rooms">
+                <source>Rooms</source>
+                <target>Räume</target>
+            </trans-unit>
+            <trans-unit id="hide-archived">
+                <source>hide-archived-rooms</source>
+                <target>Archivierte Räume ausblenden</target>
+            </trans-unit>
+            <trans-unit id="hide-without-membership">
+                <source>hide-rooms-without-membership</source>
+                <target>Räume ohne Mitgliedschaft ausblenden</target>
+            </trans-unit>
+            <trans-unit id="search-filter">
+                <source>search-filter</source>
+                <target>Suche</target>
+            </trans-unit>
+            <trans-unit id="search-filter-user-name">
+                <source>username</source>
+                <target>Benutzername</target>
+            </trans-unit>
+            <trans-unit id="search-filter-placeholder">
+                <source>search-filter-placeholder</source>
+                <target>Titel, ModeratorIn, Beschreibung</target>
+            </trans-unit>
+            <trans-unit id="search-user-filter-placeholder">
+                <source>search-user-filter-placeholder</source>
+                <target>Vorname, Nachname</target>
+            </trans-unit>
+            <trans-unit id="room_support_label">
+                <source>Support:</source>
+                <target>Support:</target>
+            </trans-unit>
+            <trans-unit id="room_support_link">
+                <source>E-Mail to support</source>
+                <target>E-Mail an Support</target>
+            </trans-unit>
+            <trans-unit id="room_locked">
+                <source>This room is currently locked.</source>
+                <target>Dieser Raum ist derzeit gesperrt.</target>
+            </trans-unit>
+            <trans-unit id="room_rejected">
+                <source>Your request has been rejected.</source>
+                <target>Ihre Anfrage wurde abgelehnt.</target>
+            </trans-unit>
+            <trans-unit id="room_requested">
+                <source>Your request has not been processed yet.</source>
+                <target>Ihre Anfrage wartet noch auf Bearbeitung.</target>
+            </trans-unit>
+            <trans-unit id="room_requested_short">
+                <source>Membership request in process</source>
+                <target>Mitgliedschaft in Beantragung</target>
+            </trans-unit>
+            <trans-unit id="room_request">
+                <source>Request membership</source>
+                <target>Mitgliedschaft beantragen</target>
+            </trans-unit>
+            <trans-unit id="room_request_forbidden">
+                <source>Guests are not allowed to request for membership.</source>
+                <target>Gäste können keine Teilnahmeanfrage stellen.</target>
+            </trans-unit>
+            <trans-unit id="room_agb">
+                <source>AGB</source>
+                <target>Nutzungsbedingungen</target>
+            </trans-unit>
+            <trans-unit id="room_agb_accept">
+                <source>Accept</source>
+                <target>Akzeptieren</target>
+            </trans-unit>
+            <trans-unit id="room_code">
+                <source>Code</source>
+                <target>Teilnahmecode</target>
+            </trans-unit>
+            <trans-unit id="room_time_pulses">
+                <source>time pulses</source>
+                <target>Zeittakte</target>
+            </trans-unit>
+            <trans-unit id="room_time_pulses_continuous">
+                <source>continuous</source>
+                <target>kontinuierlich</target>
+            </trans-unit>
+            <trans-unit id="of">
+                <source>of</source>
+                <target>von</target>
+            </trans-unit>
+            <trans-unit id="context type">
+                <source>context type</source>
+                <target>Raumtyp</target>
+            </trans-unit>
+            <trans-unit id="Room description">
+                <source>Room description</source>
+                <target>Beschreibung</target>
+            </trans-unit>
+            <trans-unit id="community">
+                <source>community</source>
+                <target>Gemeinschaftsraum</target>
+            </trans-unit>
+            <trans-unit id="Group room">
+                <source>Group room</source>
+                <target>Gruppenraum</target>
+            </trans-unit>
+            <trans-unit id="language">
+                <source>language</source>
+                <target>Sprache</target>
+            </trans-unit>
+            <trans-unit id="de">
+                <source>de</source>
+                <target>Deutsch</target>
+            </trans-unit>
+            <trans-unit id="en">
+                <source>en</source>
+                <target>Englisch</target>
+            </trans-unit>
+            <trans-unit id="Time interval">
+                <source>Time interval</source>
+                <target>Zeittakte</target>
+            </trans-unit>
+            <trans-unit id="New room">
+                <source>New room</source>
+                <target>Neuer Raum</target>
+            </trans-unit>
+            <trans-unit id="Create new context">
+                <source>Create new context</source>
+                <target>Neuen Raum anlegen</target>
+            </trans-unit>
+            <trans-unit id="confirm">
+                <source>confirm</source>
+                <target>Zustimmen</target>
+            </trans-unit>
+            <trans-unit id="reject">
+                <source>reject</source>
+                <target>Ablehnen</target>
+            </trans-unit>
+            <trans-unit id="Room description...">
+                <source>Room description...</source>
+                <target>Beschreibung...</target>
+            </trans-unit>
+            <trans-unit id="moderation actions">
+                <source>moderation actions</source>
+                <target>Moderationsaktionen</target>
+            </trans-unit>
+            <trans-unit id="Archived room">
+                <source>Archived room</source>
+                <target>Archivierter Raum</target>
+            </trans-unit>
+            <trans-unit id="Archived room info">
+                <source>Archived room info</source>
+                <target>Dieser Raum wurde archiviert und befindet sich im Lesemodus. D.h., Sie können Einträge in diesem Raum lesen jedoch nicht editieren oder neu erstellen.</target>
+            </trans-unit>
+            <trans-unit id="Archived room removal warning">
+                <source>Archived room removal warning</source>
+                <target>Bitte beachten Sie, dass dieser Raum nach %days% Tagen Nichtnutzung gelöscht wird.</target>
+            </trans-unit>
+            <trans-unit id="room_template">
+                <source>Template</source>
+                <target>Vorlage</target>
+            </trans-unit>
+            <trans-unit id="room code description">
+                <source>room code description</source>
+                <target>Bitte geben Sie den Teilnahme-Code an. Bei richtiger Eingabe werden Sie sofort in den Raum hineingelassen.</target>
+            </trans-unit>
+            <trans-unit id="room join description">
+                <source>room join description</source>
+                <target>Anmeldung ohne Freischalt-Code. Bitte erläutern Sie den ModeratorInnen dieses Raums, warum Sie Mitglied werden möchten. Dieser Text wird per E-Mail an die ModeratorInnen verschickt.</target>
+            </trans-unit>
+            <trans-unit id="name">
+                <source>Name</source>
+                <target>Name</target>
+            </trans-unit>
+            <trans-unit id="contact persons">
+                <source>Contact persons:</source>
+                <target>AnsprechpartnerInnen:</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

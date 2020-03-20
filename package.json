@@ -1,0 +1,55 @@
+{
+  "name": "commsy",
+  "version": "1.0.0",
+  "description": "CommSy is a web-based community system.",
+  "scripts": {
+    "dev-server": "encore dev-server",
+    "dev": "encore dev",
+    "watch": "encore dev --watch",
+    "build": "encore production --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commsy/commsy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/commsy/commsy/issues"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ],
+  "homepage": "https://github.com/commsy/commsy#readme",
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.27.0",
+    "@types/jquery": "^3.3.0",
+    "@types/uikit": "^2.27.6",
+    "@types/urijs": "^1.15.34",
+    "expose-loader": "^0.7.5",
+    "fullcalendar": "^3.4.0",
+    "hard-source-webpack-plugin": "^0.13.1",
+    "jquery": "^3.2.1",
+    "jscolor-picker": "^2.0.4",
+    "jstree": "^3.3.8",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "moment": "^2.24.0",
+    "nprogress": "^0.2.0",
+    "promise": "^7.1.1",
+    "select2": "^4.0.5",
+    "tooltipster": "^4.2.5",
+    "ts-loader": "^5.3.0",
+    "typescript": "^3.5.3",
+    "uikit": "^2.27.4",
+    "urijs": "^1.18.10",
+    "video.js": "^5.19.2",
+    "webpack-notifier": "^1.8.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.2.5"
+  },
+  "resolutions": {
+    "upath": "1.1.2"
+  }
+}

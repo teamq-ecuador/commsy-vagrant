@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="portal_general">
+                <source>Portal</source>
+                <target>Portal</target>
+            </trans-unit>
+            <trans-unit id="Edit room categories">
+                <source>Edit room categories</source>
+                <target>Raumkategorien bearbeiten</target>
+            </trans-unit>
+            <trans-unit id="Title">
+                <source>Title</source>
+                <target>Titel</target>
+            </trans-unit>
+            <trans-unit id="Create new category">
+                <source>Create new category</source>
+                <target>Neue Kategorie anlegen</target>
+            </trans-unit>
+            <trans-unit id="Update category">
+                <source>Update category</source>
+                <target>Kategorie speichern</target>
+            </trans-unit>
+            <trans-unit id="Delete category">
+                <source>Delete category</source>
+                <target>Kategorie löschen</target>
+            </trans-unit>
+            <trans-unit id="Cancel">
+                <source>Cancel</source>
+                <target>Abbrechen</target>
+            </trans-unit>
+            <trans-unit id="Room categories">
+                <source>Room categories</source>
+                <target>Raumkategorien</target>
+            </trans-unit>
+
+            <trans-unit id="Portal settings">
+                <source>settings</source>
+                <target>Portaleinstellungen</target>
+            </trans-unit>
+
+            <!-- portal announcements -->
+            <trans-unit id="Portal announcements">
+                <source>announcements</source>
+                <target>Portal-Ankündigungen</target>
+            </trans-unit>
+            <trans-unit id="Show announcements">
+                <source>Show</source>
+                <target>Anzeigen?</target>
+            </trans-unit>
+            <trans-unit id="Show server information">
+                <source>Show server infos</source>
+                <target>Serverinfos anzeigen?</target>
+            </trans-unit>
+            <trans-unit id="Link">
+                <source>Link</source>
+                <target>Adresse</target>
+            </trans-unit>
+
+            <!-- portal terms -->
+            <trans-unit id="portal_agb">
+                <source>terms</source>
+                <target>Nutzungsbedingungen</target>
+            </trans-unit>
+            <trans-unit id="termsUpdateNote">
+                <source>terms update note</source>
+                <target>Bei Änderungen müssen alle Benutzer die Nutzungsbedingungen erneut akzeptieren!</target>
+            </trans-unit>
+
+            <!-- portal terms templates -->
+            <trans-unit id="portal_terms_templates_reference">
+                <source>You can set up templates for room terms here</source>
+                <target>Sie können Vorlagen für Nutzungsbedingungen in Räumen hier verwalten</target>
+            </trans-unit>
+
+            <trans-unit id="portal_terms_templates_breadcrumb">
+                <source>roomtermstemplates</source>
+                <target>Vorlagen Nutzungsbedingungen</target>
+            </trans-unit>
+
+            <trans-unit id="Edit terms">
+                <source>Edit terms</source>
+                <target>Nutzungsbedingungen bearbeiten</target>
+            </trans-unit>
+            <trans-unit id="content_de">
+                <source>content_de</source>
+                <target>Inhalt (DE)</target>
+            </trans-unit>
+            <trans-unit id="content_en">
+                <source>content_en</source>
+                <target>Inhalt (EN)</target>
+            </trans-unit>
+            <trans-unit id="Create new term">
+                <source>Create new term</source>
+                <target>Nutzungsbedigungen anlegen</target>
+            </trans-unit>
+            <trans-unit id="Update term">
+                <source>Update term</source>
+                <target>Nutzungsbedigungen speichern</target>
+            </trans-unit>
+            <trans-unit id="Delete term">
+                <source>Delete term</source>
+                <target>Nutzungsbedigungen löschen</target>
+            </trans-unit>
+
+            <!-- portal help link -->
+            <trans-unit id="support page link">
+                <source>help</source>
+                <target>Support-Seite</target>
+            </trans-unit>
+            <trans-unit id="tooltip text">
+                <source>tooltip text</source>
+                <target>Tooltip-Text</target>
+            </trans-unit>
+
+            <trans-unit id="roomcategories">
+                <source>roomcategories</source>
+                <target>Raumkategorien</target>
+            </trans-unit>
+
+            <!-- portal translations -->
+            <trans-unit id="portal_menu_translations_title">
+                <source>Translations</source>
+                <target>Übersetzungen</target>
+            </trans-unit>
+            <trans-unit id="portal_breadcrumb_translations_title">
+                <source>translations</source>
+                <target>Übersetzungen</target>
+            </trans-unit>
+
+            <!-- portal licenses configuration -->
+            <trans-unit id="portal_licenses_menu_title">
+                <source>Licenses</source>
+                <target>Lizenzen</target>
+            </trans-unit>
+            <trans-unit id="portal_licenses_breadcrumb_title">
+                <source>licenses</source>
+                <target>Lizenzen</target>
+            </trans-unit>
+            <trans-unit id="Edit license">
+                <source>Edit license</source>
+                <target>Lizenz bearbeiten</target>
+            </trans-unit>
+            <trans-unit id="Edit Licenses">
+                <source>Edit Licenses</source>
+                <target>Lizenzen bearbeiten</target>
+            </trans-unit>
+            <trans-unit id="No licenses created yet">
+                <source>No licenses have been created yet.</source>
+                <target>Es wurden noch keine Lizenzen erstellt.</target>
+            </trans-unit>
+            <trans-unit id="Content">
+                <source>Content</source>
+                <target>Inhalt</target>
+            </trans-unit>
+            <trans-unit id="Create new license">
+                <source>Create new license</source>
+                <target>Neue Lizenz anlegen</target>
+            </trans-unit>
+            <trans-unit id="Update license">
+                <source>Update license</source>
+                <target>Lizenz speichern</target>
+            </trans-unit>
+            <trans-unit id="Delete license">
+                <source>Delete license</source>
+                <target>Lizenz löschen</target>
+            </trans-unit>
+
+            <!-- portal csv import -->
+            <trans-unit id="portal_csv_import_menu_title">
+                <source>CSV-Import</source>
+                <target>CSV-Import</target>
+            </trans-unit>
+            <trans-unit id="portal_csv_import_breadcrumb_title">
+                <source>csvimport</source>
+                <target>CSV-Import</target>
+            </trans-unit>
+            <trans-unit id="portal_csv_import_heading">
+                <source>Import users from csv file</source>
+                <target>Benutzer aus CSV-Datei importieren</target>
+            </trans-unit>
+
+            <!-- auth -->
+            <trans-unit id="portal_auth_default_source">
+                <source>Default Source</source>
+                <target>Standard-Quelle</target>
+            </trans-unit>
+
+            <!-- general -->
+            <trans-unit id="portal_settings">
+                <source>Portal configuration</source>
+                <target>Portalkonfiguration</target>
+            </trans-unit>
+            <trans-unit id="portal_settings_legacy">
+                <source>Legacy configuration</source>
+                <target>Alte Portalkonfiguration</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

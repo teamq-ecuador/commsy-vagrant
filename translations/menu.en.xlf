@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <!-- room sidebar menu entries -->
+            <trans-unit id="home">
+                <source>home</source>
+                <target>Home</target>
+            </trans-unit>
+            <trans-unit id="my_home">
+                <source>my home</source>
+                <target>Dashboard</target>
+            </trans-unit>
+            <trans-unit id="announcement">
+                <source>announcement</source>
+                <target>Announcements</target>
+            </trans-unit>
+            <trans-unit id="todo">
+                <source>todo</source>
+                <target>Tasks</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>date</source>
+                <target>Dates</target>
+            </trans-unit>
+            <trans-unit id="discussion">
+                <source>discussion</source>
+                <target>Discussions</target>
+            </trans-unit>
+            <trans-unit id="user">
+                <source>user</source>
+                <target>Users</target>
+            </trans-unit>
+            <trans-unit id="group">
+                <source>group</source>
+                <target>Groups</target>
+            </trans-unit>
+            <trans-unit id="topic">
+                <source>topic</source>
+                <target>Topics</target>
+            </trans-unit>
+            <trans-unit id="material">
+                <source>material</source>
+                <target>Materials</target>
+            </trans-unit>
+            <trans-unit id="settings">
+                <source>settings</source>
+                <target>Settings</target>
+            </trans-unit>
+            <trans-unit id="project">
+                <source>project</source>
+                <target>Project workspaces</target>
+            </trans-unit>
+            <trans-unit id="institution">
+                <source>institution</source>
+                <target>Institutions</target>
+            </trans-unit>
+
+            <!-- settings sidebar menu entries -->
+            <trans-unit id="general_settings">
+                <source>General</source>
+                <target>General</target>
+            </trans-unit>
+            <trans-unit id="moderation_settings">
+                <source>Moderation</source>
+                <target>Moderation</target>
+            </trans-unit>
+            <trans-unit id="additional_settings">
+                <source>Additional</source>
+                <target>Additional</target>
+            </trans-unit>            
+            <trans-unit id="appearance_settings">
+                <source>appearance</source>
+                <target>Appearance</target>
+            </trans-unit>
+            <trans-unit id="extension_settings">
+                <source>extensions</source>
+                <target>Extensions</target>
+            </trans-unit>
+            <trans-unit id="delete_settings">
+                <source>delete</source>
+                <target>Delete</target>
+            </trans-unit>
+
+            <trans-unit id="menu_back_to_room">
+                <source>Back to room</source>
+                <target>Back to workspace</target>
+            </trans-unit>
+            <trans-unit id="create_entry">
+                <source>Create</source>
+                <target>Create</target>
+            </trans-unit>
+
+            <!-- breadcrumb -->
+            <trans-unit id="breadcrumb_portal">
+                <source>portal</source>
+                <target>Portal</target>
+            </trans-unit>
+            <trans-unit id="breadcrumb_dashboard">
+                <source>dashboard</source>
+                <target>Dashboard</target>
+            </trans-unit>
+            <trans-unit id="breadcrumb_copy">
+                <source>copy</source>
+                <target>My copies</target>
+            </trans-unit>
+            <trans-unit id="breadcrumb_portfolio">
+                <source>portfolio</source>
+                <target>Portfolios</target>
+            </trans-unit>
+            <trans-unit id="breadcrumb_roomprofile">
+                <source>Room profile</source>
+                <target>Workspace profile</target>
+            </trans-unit>
+            <trans-unit id="breadcrumb_account">
+                <source>Account</source>
+                <target>Account</target>
+            </trans-unit>
+            <trans-unit id="breadcrumb_search">
+                <source>search</source>
+                <target>Search</target>
+            </trans-unit>
+
+            <!-- account -->
+            <trans-unit id="profile_personal_data">
+                <source>personal</source>
+                <target>Personal data</target>
+            </trans-unit>
+            <trans-unit id="profile_account">
+                <source>account</source>
+                <target>Account data</target>
+            </trans-unit>
+            <trans-unit id="profile_notifications">
+                <source>notifications</source>
+                <target>Notifications</target>
+            </trans-unit>
+            <trans-unit id="profile_calendars">
+                <source>calendars</source>
+                <target>Calendars</target>
+            </trans-unit>
+            <trans-unit id="profile_additional">
+                <source>additional</source>
+                <target>Additional functions</target>
+            </trans-unit>
+
+            <!-- room profile -->
+            <trans-unit id="profile_general">
+                <source>general</source>
+                <target>General</target>
+            </trans-unit>
+            <trans-unit id="profile_address">
+                <source>address</source>
+                <target>Address</target>
+            </trans-unit>
+            <trans-unit id="profile_contact">
+                <source>contact</source>
+                <target>Contact</target>
+            </trans-unit>
+
+            <trans-unit id="dashboard_overview">
+                <source>overview</source>
+                <target>Dashboard</target>
+            </trans-unit>
+            <trans-unit id="invitations">
+                <source>invitations</source>
+                <target>Invitations</target>
+            </trans-unit>
+
+            <trans-unit id="warning">
+                <source>warning</source>
+                <target>Warning:</target>
+            </trans-unit>
+            <trans-unit id="irreversible_message">
+                <source>irreversibleMessage</source>
+                <target>This action can not be undone!</target>
+            </trans-unit>
+
+            <trans-unit id="Room categories">
+                <source>Room categories</source>
+                <target>Workspace categories</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

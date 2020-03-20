@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="mailSubject">
+                <source>Subject</source>
+                <target>Betreff</target>
+            </trans-unit>
+            <trans-unit id="mailFromProjectRoom">
+                <source>This email has been sent by ... from project room ...</source>
+                <target>Diese E-Mail wurde von %sender_name% über den Projektraum "%room_name%" versendet.</target>
+            </trans-unit>
+            <trans-unit id="mailFromGroupRoom">
+                <source>This email has been sent by ... from group room ...</source>
+                <target>Diese E-Mail wurde von %sender_name% über den Gruppenraum "%room_name%" versendet.</target>
+            </trans-unit>
+            <trans-unit id="mailFromCommunityRoom">
+                <source>This email has been sent by ... from community room ...</source>
+                <target>Diese E-Mail wurde von %sender_name% über den Gemeinschaftsraum "%room_name%" versendet.</target>
+            </trans-unit>
+            <trans-unit id="mailCopyToSender">
+                <source>Copy to sender</source>
+                <target>Kopie an AbsenderIn</target>
+            </trans-unit>
+            <trans-unit id="mailSendToAttendees">
+                <source>Send to attendees</source>
+                <target>An Teilnehmer versenden</target>
+            </trans-unit>
+            <trans-unit id="mailSendToAssigned">
+                <source>Send to assigned</source>
+                <target>An zugeordnete Mitglieder versenden</target>
+            </trans-unit>
+            <trans-unit id="mailSendToGroups">
+                <source>Send to groups</source>
+                <target>An folgende Gruppen senden</target>
+            </trans-unit>
+            <trans-unit id="mailSendToInstitution">
+                <source>Send to institution</source>
+                <target>An Institution senden</target>
+            </trans-unit>
+            <trans-unit id="mailSendToAll">
+                <source>Send to all room members</source>
+                <target>An alle Raummitglieder versenden</target>
+            </trans-unit>
+            <trans-unit id="mailSendSelectedAll">
+                <source>Send to selected room members</source>
+                <target>An ausgewählte Raummitglieder versenden</target>
+            </trans-unit>
+            <trans-unit id="mailAdditionalRecipients">
+                <source>Additional recipients</source>
+                <target>Zusätzliche Empfänger</target>
+            </trans-unit>
+            <trans-unit id="mailAddRecipients">
+                <source>Add another recipient</source>
+                <target>Einen weiteren Empfänger hinzufügen</target>
+            </trans-unit>
+            <trans-unit id="mailSend">
+                <source>Send</source>
+                <target>Versenden</target>
+            </trans-unit>
+            <trans-unit id="mailSendItem">
+                <source>Send item</source>
+                <target>Eintrag versenden</target>
+            </trans-unit>
+            <trans-unit id="mailSendBody">
+                <source>This email has been sent by sender to recipient</source>
+                <target>Diese E-Mail wurde von %sender_name% an %recipient_name% versendet.</target>
+            </trans-unit>
+            <trans-unit id="mailSendSuccess">
+                <source>Your email has been successfully sent.</source>
+                <target>Ihre E-Mail wurde erfolgreich versendet.</target>
+            </trans-unit>
+            <trans-unit id="mailSendMultipleSuccess">
+                <source>Your email has been successfully sent to multiple users</source>
+                <target>Ihre E-Mail wurde erfolgreich an %user_count% EmpfängerInnen versendet.</target>
+            </trans-unit>
+            <trans-unit id="mailSendMultipleBody">
+                <source>This email has been sent to multiple users of this room</source>
+                <target>Diese E-Mail wurde von %sender_name% an %user_count% Mitglieder des Raumes "%room_name%" versendet.</target>
+            </trans-unit>
+            <trans-unit id="mailSendMultipleBodyGroup">
+                <source>This email has been sent to all users of this group</source>
+                <target>Diese E-Mail wurde von %sender_name% an die Mitglieder der Gruppe "%group_name%" (Raum "%room_name%") versendet.</target>
+            </trans-unit>
+            <trans-unit id="mailSendWarning">
+                <source>Your email may only have been partially sent.</source>
+                <target>Ihre E-Mail wurde möglicherweise nur teilweise versendet. Es gab Probleme bei der Zustellung an:</target>
+            </trans-unit>
+            <trans-unit id="mailBackToEntry">
+                <source>Back to</source>
+                <target>Zurück zu</target>
+            </trans-unit>
+            <trans-unit id="mailSendMail">
+                <source>Send mail</source>
+                <target>E-Mail senden</target>
+            </trans-unit>
+            <trans-unit id="mail_subject_room_archived">
+                <source>%room_name% will be archived in %num_days% days.</source>
+                <target>%room_name% wird in %num_days% Tagen archiviert.</target>
+            </trans-unit>
+            <trans-unit id="mail_body_auto_generated">
+                <source>[This email was generated automatically at %time_generated%.]</source>
+                <target>[Diese E-Mail wurde am %time_generated% automatisch vom System generiert.]</target>
+            </trans-unit>
+            <trans-unit id="mail_footer_why">
+                <source>You received this email as one of the moderator/s in the workspace &quot;%room_name%&quot;.</source>
+                <target>Sie haben diese E-Mail als Mitglied der Moderation des Raumes &quot;%room_name%&quot; erhalten.</target>
+            </trans-unit>
+            <trans-unit id="mail_send_to">
+                <source>This email was send to: %recipients%</source>
+                <target>Diese E-Mail wurde versendet an: %recipients%</target>
+            </trans-unit>
+            <trans-unit id="mail_linked_project_community_workspaces">
+                <source>This project workspace is linked to the following community workspaces: %community_workspaces%</source>
+                <target>Dieser Projektraum ist den folgenden Gemeinschaftsräumen zugeordnet: %community_workspaces%</target>
+            </trans-unit>
+            <trans-unit id="mail_subject_user_inactivity_upcoming_lock">
+                <source>%portal_name%: Your account will be locked in %num_days% days</source>
+                <target>%portal_name%: Ihre kennung wird in %num_days% Tagen gesperrt</target>
+            </trans-unit>
+            <trans-unit id="mail_subject_item_deleted">
+                <source>Deleted entry (%room_name%)</source>
+                <target>Gelöschter Eintrag (%room_name%)</target>
+            </trans-unit>
+            <trans-unit id="mail_body_common_title">
+                <source>Title: %title%</source>
+                <target>Titel: %title%</target>
+            </trans-unit>
+            <trans-unit id="mail_body_common_rubric">
+                <source>Rubric: %rubric%</source>
+                <target>Rubrik: %rubric%</target>
+            </trans-unit>
+            <trans-unit id="mail_body_common_deleter">
+                <source>Deleter: %deleter%</source>
+                <target>Bearbeiter: %deleter%</target>
+            </trans-unit>
+            <trans-unit id="mail_body_common_workspace">
+                <source>Workspace: %workspace%</source>
+                <target>Raum: %workspace%</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

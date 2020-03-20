@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="discussionArticleCount">
+                <source>Number of entries</source>
+                <target>Anzahl der Einträge</target>
+            </trans-unit>
+            <trans-unit id="discussionLastEntry">
+                <source>Last entry</source>
+                <target>Letzter Eintrag</target>
+            </trans-unit>
+            <trans-unit id="discussionArticle">
+                <source>article</source>
+                <target>Beitrag</target>
+            </trans-unit>
+            <trans-unit id="discussionArticles">
+                <source>articles</source>
+                <target>Beiträge</target>
+            </trans-unit>
+            <trans-unit id="discussionNewArticle">
+                <source>new article</source>
+                <target>Neuer Beitrag</target>
+            </trans-unit>
+            <trans-unit id="latest_articles">
+                <source>latest article</source>
+                <target>Neuester Beitrag</target>
+            </trans-unit>
+            <trans-unit id="discussion_answer_article">
+                <source>Answer</source>
+                <target>Antworten</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

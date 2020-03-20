@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="profile">
+                <source>profile</source>
+                <target>Profile</target>
+            </trans-unit>
+            <trans-unit id="userProfile">
+                <source>user profile</source>
+                <target>User profile</target>
+            </trans-unit>
+            <trans-unit id="firstname">
+                <source>firstname</source>
+                <target>first name</target>
+            </trans-unit>
+            <trans-unit id="lastname">
+                <source>lastname</source>
+                <target>last name</target>
+            </trans-unit>
+            <trans-unit id="userId">
+                <source>userId</source>
+                <target>user id</target>
+            </trans-unit>
+            <trans-unit id="changePassword">
+                <source>changePassword</source>
+                <target>Change password</target>
+            </trans-unit>
+            <trans-unit id="currentPassword">
+                <source>currentPassword</source>
+                <target>current password</target>
+            </trans-unit>
+            <trans-unit id="newPassword">
+                <source>newPassword</source>
+                <target>new password</target>
+            </trans-unit>
+            <trans-unit id="newPasswordConfirm">
+                <source>newPasswordConfirm</source>
+                <target>confirm new password</target>
+            </trans-unit>
+            <trans-unit id="passwordChanged">
+                <source>passwordChanged</source>
+                <target>Password changed successfully!</target>
+            </trans-unit>
+            <trans-unit id="language">
+                <source>language</source>
+                <target>Personal system language</target>
+            </trans-unit>
+            <trans-unit id="autoSaveStatus">
+                <source>autoSaveStatus</source>
+                <target>auto save</target>
+            </trans-unit>
+            <trans-unit id="combineAccount">
+                <source>combineAccount</source>
+                <target>Combine accounts</target>
+            </trans-unit>
+            <trans-unit id="combineUserId">
+                <source>combineUserId</source>
+                <target>user id</target>
+            </trans-unit>
+            <trans-unit id="combinePassword">
+                <source>combinePassword</source>
+                <target>password</target>
+            </trans-unit>
+            <trans-unit id="title">
+                <source>title</source>
+                <target>title</target>
+            </trans-unit>
+            <trans-unit id="dateOfBirth">
+                <source>dateOfBirth</source>
+                <target>date of birth</target>
+            </trans-unit>
+            <trans-unit id="profileimage">
+                <source>profileimage</source>
+                <target>Profile image</target>
+            </trans-unit>
+            <trans-unit id="email">
+                <source>email</source>
+                <target>email</target>
+            </trans-unit>
+            <trans-unit id="isEmailVisible">
+                <source>isEmailVisible</source>
+                <target>is email visible</target>
+            </trans-unit>
+            <trans-unit id="phone">
+                <source>phone</source>
+                <target>phone</target>
+            </trans-unit>
+            <trans-unit id="mobile">
+                <source>mobile</source>
+                <target>mobile</target>
+            </trans-unit>
+            <trans-unit id="street">
+                <source>street</source>
+                <target>street</target>
+            </trans-unit>
+            <trans-unit id="zipcode">
+                <source>zipcode</source>
+                <target>zipcode</target>
+            </trans-unit>
+            <trans-unit id="city">
+                <source>city</source>
+                <target>city</target>
+            </trans-unit>
+            <trans-unit id="room">
+                <source>room</source>
+                <target>workspace</target>
+            </trans-unit>
+            <trans-unit id="organisation">
+                <source>organisation</source>
+                <target>organisation</target>
+            </trans-unit>
+            <trans-unit id="position">
+                <source>position</source>
+                <target>position</target>
+            </trans-unit>
+            <trans-unit id="icq">
+                <source>icq</source>
+                <target>icq</target>
+            </trans-unit>
+            <trans-unit id="msn">
+                <source>msn</source>
+                <target>msn</target>
+            </trans-unit>
+            <trans-unit id="skype">
+                <source>skype</source>
+                <target>skype</target>
+            </trans-unit>
+            <trans-unit id="yahoo">
+                <source>yahoo</source>
+                <target>yahoo</target>
+            </trans-unit>
+            <trans-unit id="jabber">
+                <source>jabber</source>
+                <target>jabber</target>
+            </trans-unit>
+            <trans-unit id="homepage">
+                <source>homepage</source>
+                <target>homepage</target>
+            </trans-unit>
+            <trans-unit id="description">
+                <source>description</source>
+                <target>description</target>
+            </trans-unit>
+            <trans-unit id="newsletterStatus">
+                <source>newsletterStatus</source>
+                <target>Newsletter</target>
+            </trans-unit>
+            <trans-unit id="widgetStatus">
+                <source>widgetStatus</source>
+                <target>widget</target>
+            </trans-unit>
+            <trans-unit id="calendarStatus">
+                <source>calendarStatus</source>
+                <target>calendar</target>
+            </trans-unit>
+            <trans-unit id="stackStatus">
+                <source>stackStatus</source>
+                <target>My stack</target>
+            </trans-unit>
+            <trans-unit id="portfolioStatus">
+                <source>portfolioStatus</source>
+                <target>portfolio</target>
+            </trans-unit>
+            <trans-unit id="switchRoomStatus">
+                <source>switchRoomStatus</source>
+                <target>switch workspace</target>
+            </trans-unit>
+            <trans-unit id="changeInAllContexts">
+                <source>changeInAllContexts</source>
+                <target>Change in all contexts</target>
+            </trans-unit>
+            <trans-unit id="none">
+                <source>none</source>
+                <target>No newsletter</target>
+            </trans-unit>
+            <trans-unit id="weekly">
+                <source>weekly</source>
+                <target>Weekly newsletter</target>
+            </trans-unit>
+            <trans-unit id="daily">
+                <source>daily</source>
+                <target>Daily newsletter</target>
+            </trans-unit>
+            <trans-unit id="descriptionChangeInAllContexts">
+                <source>descriptionChangeInAllContexts</source>
+                <target>Change description in all contexts</target>
+            </trans-unit>
+            <trans-unit id="commsyBar">
+                <source>commsyBar</source>
+                <target>CommSy bar</target>
+            </trans-unit>
+            <trans-unit id="contactData">
+                <source>contactData</source>
+                <target>Contact data</target>
+            </trans-unit>
+            <trans-unit id="personalData">
+                <source>personalData</source>
+                <target>Personal data</target>
+            </trans-unit>
+            <trans-unit id="browser">
+                <source>browser</source>
+                <target>Browser</target>
+            </trans-unit>
+            <trans-unit id="newsletter">
+                <source>newsletter</source>
+                <target>Newsletter</target>
+            </trans-unit>
+            <trans-unit id="german">
+                <source>de</source>
+                <target>German</target>
+            </trans-unit>
+            <trans-unit id="english">
+                <source>en</source>
+                <target>English</target>
+            </trans-unit>
+            <trans-unit id="profile_signout">
+                <source>Sign out</source>
+                <target>Sign out</target>
+            </trans-unit>
+            <trans-unit id="account">
+                <source>Account</source>
+                <target>Account</target>
+            </trans-unit>
+            <trans-unit id="roomProfile">
+                <source>Room profile</source>
+                <target>Workspace profile</target>
+            </trans-unit>
+            <trans-unit id="profile_header_emailToCommsy">
+                <source>E-Mail to CommSy</source>
+                <target>Email to CommSy</target>
+            </trans-unit>
+            <trans-unit id="profile_label_emailToCommsy">
+                <source>emailToCommsy</source>
+                <target>Email to CommSy</target>
+            </trans-unit>
+            <trans-unit id="profile_label_emailToCommsySecret">
+                <source>emailToCommsySecret</source>
+                <target>Upload password</target>
+            </trans-unit>
+            <trans-unit id="profile_text_label_emailToCommsy">
+                <source>emailToCommsyText</source>
+                <target>Send e-mails to the following address:</target>
+            </trans-unit>
+            <trans-unit id="profile_text_label_emailToCommsySecret">
+                <source>emailToCommsyTextSecret</source>
+                <target>Please specify a password to be used with the upload via e-mail.</target>
+            </trans-unit>
+            <trans-unit id="profile_text_password_emailToCommsySecret">
+                <source>emailToCommsyTextPassword</source>
+                <target>Please specify an upload-password. This has to be stated in one single line in the body of the e-mail:</target>
+            </trans-unit>
+            <trans-unit id="profile_text_password_template_emailToCommsySecret">
+                <source>emailToCommsyTextPasswordTemplate</source>
+                <target>upload account: YOUR_UPLOAD_PASSWORT</target>
+            </trans-unit>
+            <trans-unit id="profile_text_accounts_emailToCommsySecret">
+                <source>emailToCommsyTextAccounts</source>
+                <target>If you have more than one account using the same e-mail-address, the new material will be created in the repositories of all these accounts. If the material should only be created in the repository of one particular account, please state the account in one single line in the body of the e-mail:</target>
+            </trans-unit>
+            <trans-unit id="profile_text_accounts_template_emailToCommsySecret">
+                <source>emailToCommsyTextAccountsTemplate</source>
+                <target>Account: YOUR_ACCOUNT</target>
+            </trans-unit>
+            <trans-unit id="miscellaneous">
+                <source>miscellaneous</source>
+                <target>Miscellaneous</target>
+            </trans-unit>
+            <trans-unit id="lock">
+                <source>lock</source>
+                <target>Lock</target>
+            </trans-unit>
+            <trans-unit id="delete">
+                <source>delete</source>
+                <target>Delete</target>
+            </trans-unit>
+            <trans-unit id="cancel_membership">
+                <source>cancelMembership</source>
+                <target>Cancel membership</target>
+            </trans-unit>
+
+            <!-- description texts general room profile settings -->
+            <trans-unit id="general_description">
+                <source>generalDescription</source>
+                <target>General settings about your profile in workspace %s can be configured here.</target>
+            </trans-unit>
+            <trans-unit id="profile_image_description">
+                <source>profileImageDescription</source>
+                <target>Your profile picture is displayed next to your comments in workspace "<![CDATA[<span class='uk-text-bold'>]]>%s<![CDATA[</span>]]>". For every workspace that are a member of you can choose an individual profile picture. Alternatively, you can use the "change in all workspaces" option to set your profile picture globally. If you do not upload a custom profile image your initials will be shown instead.</target>
+            </trans-unit>
+            <trans-unit id="language_description">
+                <source>languageDescription</source>
+                <target>With this option you can set the language in which the menus, settings and explanations in CommSy will be displayed. Choosing the option "Browser" will configure the language according to your browser settings. If a workspace's moderation explicitly set a specific system language it will be used instead of your personal one.</target>
+            </trans-unit>
+            <trans-unit id="auto_save_description">
+                <source>autoSaveDescription</source>
+                <target>When the option "automatic saving" is activated, any entry you are working on will be saved automatically if you have been idle for some time.</target>
+            </trans-unit>
+
+            <trans-unit id="merge_accounts_text_1">
+                <source>mergeAccountsTextFirstLine</source>
+                <target>Here you can combine your account with another account on this portal.</target>
+            </trans-unit>
+            <trans-unit id="merge_accounts_text_2">
+                <source>mergeAccountsTextSecondLine</source>
+                <target>Please enter the login data of the account you want to combine your current account with.</target>
+            </trans-unit>
+            <trans-unit id="newsletter_text">
+                <source>newsletterText</source>
+                <target>Here you can configure how often you want to receive the Newsletter of this workspace. The newsletter will be send to you account e-mail address <![CDATA[<span class='uk-text-bold'>]]>%s<![CDATA[</span>]]>.</target>
+            </trans-unit>
+
+            <!-- delete / lock account / room profile -->
+            <trans-unit id="lock_room_membership_title">
+                <source>lockRoomMembership</source>
+                <target>Lock workspace membership</target>
+            </trans-unit>
+            <trans-unit id="delete_room_membership_title">
+                <source>deleteRoomMembership</source>
+                <target>Delete workspace membership</target>
+            </trans-unit>
+
+            <trans-unit id="lock_room_membership_text">
+                <source>lockRoomMembershipText</source>
+                <target>Use this option to cancel your membership in this workspace. This will remove your access to this workspace, though your posts will remain intact. If you want to delete specific posts, please do so before deactivating your membership. Your workspace membership can be reactivated in the future.</target>
+            </trans-unit>
+            <trans-unit id="delete_room_membership_text">
+                <source>deleteRoomMembershipText</source>
+                <target>Use this option to delete your workspace membership. This will remove your access to this workspace. However, your posts will remain. Please delete those posts you wish to be removed before deleting your account.</target>
+            </trans-unit>
+            <trans-unit id="delete_room_membership_text_flag">
+                <source>deleteRoomMembershipTextFlag</source>
+                <target>Use this option to delete your membership and all of the posts of this workspace.</target>
+            </trans-unit>
+
+            <trans-unit id="delete_room_membership_text_false">
+                <source>deleteRoomMembershipTextFalse</source>
+                <target>Use this option to delete your workspace membership and all of your posts and comments in this workspace.</target>
+            </trans-unit>
+
+            <trans-unit id="lock_account_title">
+                <source>lockAccount</source>
+                <target>Lock account</target>
+            </trans-unit>
+            <trans-unit id="delete_account_title">
+                <source>deleteAccount</source>
+                <target>Delete account</target>
+            </trans-unit>
+
+            <trans-unit id="lock_account_text">
+                <source>lockAccountText</source>
+                <target>Use this option to deactivate your account in this portal. This will remove your access to all workspaces in this portal, though your posts will remain intact. If you want to delete specific posts, please do so before deactivating your account. Your account can be reactivated in the future.</target>
+            </trans-unit>
+            <trans-unit id="delete_account_text">
+                <source>deleteAccountText</source>
+                <target>Use this option to delete your account in this portal. After this, you won't be able to access this portal anymore. However, your posts will remain. If you wish for certain posts to be removed, you will have to do so before deleting your account.</target>
+            </trans-unit>
+            <trans-unit id="delete_account_text_flag">
+                <source>deleteAccountTextFlag</source>
+                <target>Use this option to delete your account and all of your posts in this portal.</target>
+            </trans-unit>
+            <trans-unit id="delete_account_text_false">
+                <source>deleteAccountTextFalse</source>
+                <target>Use this option to delete your account and all of your posts and comments in every workspace of this portal. To be able to use this portal again, you will have to register again.</target>
+            </trans-unit>
+
+            <trans-unit id="email_choice_text">
+                <source>Email choice text</source>
+                <target>Here you can choose the email address for communication in this workspace. You can either use your account email address or configure a new email address specifically for this workspace.</target>
+            </trans-unit>
+
+            <trans-unit id="calendarsStatus">
+                <source>calendarsStatus</source>
+                <target>Angezeigte Kalender</target>
+            </trans-unit>
+            <trans-unit id="dashboard">
+                <source>dashboard</source>
+                <target>Dashboard</target>
+            </trans-unit>
+            <trans-unit id="caldav">
+                <source>caldav</source>
+                <target>CalDAV</target>
+            </trans-unit>
+            <trans-unit id="caldav_server">
+                <source>caldav_server</source>
+                <target>CalDAV Server</target>
+            </trans-unit>
+            <trans-unit id="caldav_path">
+                <source>caldav_path</source>
+                <target>CalDAV Path</target>
+            </trans-unit>
+            <trans-unit id="caldav_user">
+                <source>caldav_user</source>
+                <target>Username</target>
+            </trans-unit>
+            <trans-unit id="caldav_password">
+                <source>caldav_password</source>
+                <target>Password</target>
+            </trans-unit>
+            <trans-unit id="caldav_password_description">
+                <source>caldav_password_description</source>
+                <target>Your CommSy password</target>
+            </trans-unit>
+            <trans-unit id="all_none">
+                <source>all_none</source>
+                <target>all / none</target>
+            </trans-unit>
+            <trans-unit id="authentication_source">
+                <source>authSource</source>
+                <target>Authentification source</target>
+            </trans-unit>
+            <trans-unit id="profile_image_tip">
+                <source>Profile image tip</source>
+                <target>For best results, chose an image with side ratio of approximately 1:1 and a resolution of at least 200x200 pixel!</target>
+            </trans-unit>
+            <trans-unit id="use_profile_image">
+                <source>Use profile image</source>
+                <target>Use custom profile image</target>
+            </trans-unit>
+            <trans-unit id="email_notifications">
+                <source>e-mail notifications</source>
+                <target>E-mail notifications</target>
+            </trans-unit>
+            <trans-unit id="email_notification_registration">
+                <source>E-mail at registration</source>
+                <target>E-mail at registration</target>
+            </trans-unit>
+            <trans-unit id="email_notification_new_workspace">
+                <source>E-mail when a workspace is created</source>
+                <target>E-mail when a workspace is created</target>
+            </trans-unit>
+            <trans-unit id="email_notification_item_deleted">
+                <source>E-mail when an item is deleted</source>
+                <target>E-mail when an item is deleted</target>
+            </trans-unit>
+            <trans-unit id="email_to_commsy_description">
+                <source>email_to_commsy_description</source>
+                <target>This function allows to create materials in your stack by sending e-mails from your configured account e-mail address <![CDATA[<span class='uk-text-bold'>]]>%s<![CDATA[</span>]]> to <![CDATA[<span class='uk-text-bold'>]]>%s<![CDATA[</span>]]>. The mail's subject will be used as the title of the new material and the mail's body as the materials description text.</target>
+            </trans-unit>
+            <trans-unit id="has_to_change_mail">
+                <source>has to change mail</source>
+                <target>For further use you have to change your email</target>
+            </trans-unit>
+            <trans-unit id="message">
+                <source>message</source>
+                <target>Message</target>
+            </trans-unit>
+            <trans-unit id="sendMail">
+                <source>send mail</source>
+                <target>send mail</target>
+            </trans-unit>
+         </body>
+    </file>
+</xliff>

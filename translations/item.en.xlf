@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="workflowStatus">
+                <source>workflowStatus</source>
+                <target>Status</target>
+            </trans-unit>
+            <trans-unit id="workflowResubmission">
+                <source>workflowResubmission</source>
+                <target>Resubmission</target>
+            </trans-unit>
+            <trans-unit id="workflowResubmissionDate">
+                <source>workflowResubmissionDate</source>
+                <target>Resubmission date</target>
+            </trans-unit>
+            <trans-unit id="workflowResubmissionWho">
+                <source>workflowResubmissionWho</source>
+                <target>Notification after expiration of the resubmission date</target>
+            </trans-unit>
+            <trans-unit id="workflowWhoAdditional">
+                <source>workflowWhoAdditional</source>
+                <target>Additional email addresses</target>
+            </trans-unit>
+            <trans-unit id="workflowNotifyCreator">
+                <source>notify creator</source>
+                <target>Notify the creator</target>
+            </trans-unit>
+            <trans-unit id="workflowNotifyAllModifiers">
+                <source>notify all modifiers</source>
+                <target>Notify all modifiers</target>
+            </trans-unit>
+            <trans-unit id="workflowStatusResubmissionDate">
+                <source>workflowStatusResubmissionDate</source>
+                <target>Status after expiration of the resubmission date</target>
+            </trans-unit>
+            <trans-unit id="workflowValidity">
+                <source>workflowValidity</source>
+                <target>2nd resubmission</target>
+            </trans-unit>
+            <trans-unit id="workflowValidityDate">
+                <source>workflowValidityDate</source>
+                <target>2nd resubmission date</target>
+            </trans-unit>
+            <trans-unit id="workflowValidityWho">
+                <source>workflowValidityWho</source>
+                <target>Notification after expiration of the second resubmission date</target>
+            </trans-unit>
+            <trans-unit id="workflowStatusValidityDate">
+                <source>workflowStatusValidityDate</source>
+                <target>Status after expiration of the second resubmission date</target>
+            </trans-unit>
+            <trans-unit id="additionalActions">
+                <source>additional actions</source>
+                <target>Additional Actions</target>
+            </trans-unit>
+            <trans-unit id="annotation">
+                <source>annotation</source>
+                <target>Annotation</target>
+            </trans-unit>
+            <trans-unit id="workflowNoStatus">
+                <source>workflowNoStatus</source>
+                <target>No status</target>
+            </trans-unit>
+            <trans-unit id="clipboardCopySuccess">
+                <source>Entry stored in clipboard|%count% entries stored in clipboard</source>
+                <target>Entry stored in clipboard|%count% entries stored in clipboard</target>
+            </trans-unit>
+            <trans-unit id="exportToWordpress">
+                <source>Export to Wordpress</source>
+                <target>Export to Wordpress</target>
+            </trans-unit>
+            <trans-unit id="exportToWiki">
+                <source>Export to Wiki</source>
+                <target>Export to Wiki</target>
+            </trans-unit>
+            <trans-unit id="newHashtag">
+                <source>newHashtag</source>
+                <target>New Hashtag</target>
+            </trans-unit>
+            <trans-unit id="newAnnotation">
+                <source>Add new annotation</source>
+                <target>Add new annotation</target>
+            </trans-unit>
+            <trans-unit id="noEntrySelected">
+                <source>no entry selected</source>
+                <target>No entry selected</target>
+            </trans-unit>
+            <trans-unit id="itemIsLocked">
+                <source>item is locked</source>
+                <target>This entry is currently edited by another user and is therefore locked for editing.</target>
+            </trans-unit>
+         </body>
+    </file>
+</xliff>

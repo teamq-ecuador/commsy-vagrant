@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="announcement">
+                <source>Announcement</source>
+                <target>{0}Announcement|{1}Announcements</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>Date</source>
+                <target>{0}Date|{1}Dates</target>
+            </trans-unit>
+            <trans-unit id="material">
+                <source>Material</source>
+                <target>{0}Material|{1}Materials</target>
+            </trans-unit>
+            <trans-unit id="discussion">
+                <source>Discussion</source>
+                <target>{0}Discussion|{1}Discussions</target>
+            </trans-unit>
+            <trans-unit id="user">
+                <source>User</source>
+                <target>{0}User|{1}Users</target>
+            </trans-unit>
+            <trans-unit id="group">
+                <source>Group</source>
+                <target>{0}Group|{1}Groups</target>
+            </trans-unit>
+            <trans-unit id="todo">
+                <source>Todo</source>
+                <target>{0}Task|{1}Tasks</target>
+            </trans-unit>
+            <trans-unit id="task">
+                <source>Task</source>
+                <target>{0}Task|{1}Tasks</target>
+            </trans-unit>
+            <trans-unit id="topic">
+                <source>Topic</source>
+                <target>{0}Topic|{1}Topics</target>
+            </trans-unit>
+            <trans-unit id="rubric_institution">
+                <source>institution</source>
+                <target>one: Institution|some: Institutions</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>filter entries</source>
+                <target>Entry filter</target>
+            </trans-unit>
+             <trans-unit id="11">
+                <source>title</source>
+                <target>title</target>
+            </trans-unit>
+             <trans-unit id="12">
+                <source>modifier</source>
+                <target>modifier</target>
+            </trans-unit>
+             <trans-unit id="13">
+                <source>modification_date</source>
+                <target>modification date</target>
+            </trans-unit>
+             <trans-unit id="14">
+                <source>list sort</source>
+                <target>Sort list</target>
+            </trans-unit>
+             <trans-unit id="15">
+                <source>list choice</source>
+                <target>Edit entries</target>
+            </trans-unit>
+             <trans-unit id="16">
+                <source>roomlist</source>
+                <target>Change workspace</target>
+            </trans-unit>
+             <trans-unit id="17">
+                <source>find rooms</source>
+                <target>Search workspaces</target>
+            </trans-unit>            
+             <trans-unit id="18">
+                <source>days</source>
+                <target>days</target>
+            </trans-unit>            
+             <trans-unit id="19">
+                <source>new Entries</source>
+                <target>New entries</target>
+            </trans-unit>            
+             <trans-unit id="20">
+                <source>dashboard description text</source>
+                <target>Your own dashboard with many functions and widgets.</target>
+            </trans-unit>            
+             <trans-unit id="21">
+                <source>own rooms</source>
+                <target>My own workspaces</target>
+            </trans-unit>            
+             <trans-unit id="22">
+                <source>room search text</source>
+                <target>Search for name, description, moderators,... </target>
+            </trans-unit>           
+             <trans-unit id="23">
+                <source>dashboard</source>
+                <target>Dashboard</target>
+            </trans-unit>           
+             <trans-unit id="24">
+                <source>Home</source>
+                <target>Home</target>
+            </trans-unit>           
+             <trans-unit id="25">
+                <source>settings</source>
+                <target>Settings</target>
+            </trans-unit>
+            <trans-unit id="26">
+                <source>unset list choice</source>
+                <target>Unset Editing</target>
+            </trans-unit>
+            <trans-unit id="27">
+                <source>select shown entries</source>
+                <target>Select shown entries</target>
+            </trans-unit>
+            <trans-unit id="28">
+                <source>select all entries</source>
+                <target>Select all entries</target>
+            </trans-unit>
+            <trans-unit id="29">
+                <source>unselect entries</source>
+                <target>Unselect entries</target>
+            </trans-unit>
+            <trans-unit id="30">
+                <source>selected entries</source>
+                <target>Choose action</target>
+            </trans-unit>
+            <trans-unit id="action_insert">
+                <source>insert</source>
+                <target>Insert into "%roomname%"</target>
+            </trans-unit>
+            <trans-unit id="action_insert_stack">
+                <source>insert stack</source>
+                <target>Insert into "My stack"</target>
+            </trans-unit>
+            <trans-unit id="action_remove">
+                <source>remove</source>
+                <target>Remove from "My copies"</target>
+            </trans-unit>
+            <trans-unit id="31">
+                <source>mark read</source>
+                <target>Mark as read</target>
+            </trans-unit>
+            <trans-unit id="32">
+                <source>copy</source>
+                <target>Copy</target>
+            </trans-unit>
+            <trans-unit id="33">
+                <source>save</source>
+                <target>Download</target>
+            </trans-unit>
+            <trans-unit id="34">
+                <source>delete</source>
+                <target>Delete</target>
+            </trans-unit>
+             <trans-unit id="35">
+                <source>confirm delete</source>
+                <target>Do you really want to delete the selected entries?</target>
+            </trans-unit>
+            <trans-unit id="36">
+                <source>confirm delete confirm</source>
+                <target>Yes</target>
+            </trans-unit>
+            <trans-unit id="37">
+                <source>confirm delete cancel</source>
+                <target>No</target>
+            </trans-unit>
+             <trans-unit id="38">
+                <source>cancel</source>
+                <target>Cancel</target>
+            </trans-unit>
+            <trans-unit id="39">
+                <source>actions</source>
+                <target>Actions</target>
+            </trans-unit>
+            <trans-unit id="40">
+                <source>rating</source>
+                <target>Rating</target>
+            </trans-unit>
+            <trans-unit id="41">
+                <source>list sort order</source>
+                <target>Order</target>
+            </trans-unit>
+            <trans-unit id="42">
+                <source>ascending</source>
+                <target>ascending</target>
+            </trans-unit>
+            <trans-unit id="43">
+                <source>descending</source>
+                <target>descending</target>
+            </trans-unit>
+            <trans-unit id="no selection">
+                <source>no selection</source>
+                <target>No items selected</target>
+            </trans-unit>
+            <trans-unit id="execute">
+                <source>execute</source>
+                <target>Execute action</target>
+            </trans-unit>
+            <trans-unit id="rubrics">
+                <source>Rubrics</source>
+                <target>Rubrics</target>
+            </trans-unit>
+            <trans-unit id="room">
+                <source>Room</source>
+                <target>{0}Room|{1}Rooms</target>
+            </trans-unit>
+            <trans-unit id="project">
+                <source>Project</source>
+                <target>{0}Project workspace|{1}Project workspaces</target>
+            </trans-unit>
+            <trans-unit id="institution">
+                <source>Institution</source>
+                <target>{0}Institution|{1}Institutions</target>
+            </trans-unit>
+            <trans-unit id="markdone">
+                <source>markdone</source>
+                <target>Mark entries as "done"</target>
+            </trans-unit>
+            <trans-unit id="markinprogress">
+                <source>markinprogress</source>
+                <target>Mark entries as "in progress"</target>
+            </trans-unit>
+            <trans-unit id="markpending">
+                <source>markpending</source>
+                <target>Mark entries as "pending"</target>
+            </trans-unit>
+            <trans-unit id="marktodostatus">
+                <source>marktodostatus</source>
+                <target>Mark entries as "%status%"</target>
+            </trans-unit>
+            <trans-unit id="time">
+                <source>time</source>
+                <target>Time</target>
+            </trans-unit>
+            <trans-unit id="place">
+                <source>place</source>
+                <target>Place</target>
+            </trans-unit>
+            <trans-unit id="copy">
+                <source>Copy</source>
+                <target>Copy</target>
+            </trans-unit>
+            <trans-unit id="mycopies">
+                <source>Copies</source>
+                <target>My copies</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

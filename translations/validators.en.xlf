@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="validators_unique_label_name">
+                <source>A label with the same name already exists.</source>
+                <target>A label with the same name already exists.</target>
+            </trans-unit>
+            <trans-unit id="validators_identical_to">
+                <source>The input does not match {{ compared_value }}</source>
+                <target>The input does not match {{ compared_value }}</target>
+            </trans-unit>
+            <trans-unit id="validators_room_agb">
+                <source>You must accept room agb.</source>
+                <target>You must accept workspace agb.</target>
+            </trans-unit>
+            <trans-unit id="validators_room_code">
+                <source>Your access code is invalid.</source>
+                <target>Your access code is invalid.</target>
+            </trans-unit>
+            <trans-unit id="validators_room_code_filled">
+                <source>Please enter an access code.</source>
+                <target>Please enter an access code.</target>
+            </trans-unit>
+            <trans-unit id="validators_room_no_moderators">
+                <source>Please first assign another moderator for the workspace {{ criteria }} or delete the workspace {{ criteria }}</source>
+                <target>Please first assign another moderator for the workspace {{ criteria }} or delete the workspace {{ criteria }}.</target>
+            </trans-unit>
+            <trans-unit id="validators_no_account_deletion_rooms_moderated_start">
+                <source>You can not delete or lock your account. The following workspaces would otherwise be without moderators:</source>
+                <target>You can not delete or lock your account. The following workspaces would otherwise be without moderators:</target>
+            </trans-unit>
+            <trans-unit id="validators_no_account_deletion_rooms_moderated_end">
+                <source>Please assign further moderators or delete said workspace/s.</source>
+                <target>Please assign further moderators or delete said workspace/s.</target>
+            </trans-unit>
+            <trans-unit id="validators_project_rooms_attached_to_deletion_group_room_start">
+                <source>Caution, the following project rooms are attached to this workspace:</source>
+                <target>Caution, the following project rooms are attached to this workspace:</target>
+            </trans-unit>
+            <trans-unit id="validators_project_rooms_attached_to_deletion_group_room_end">
+                <source>Those project rooms must be delete first or must be assigned to a different workspace.</source>
+                <target>Those project rooms must be delete first or must be assigned to a different workspace.</target>
+            </trans-unit>
+            <trans-unit id="validators_password_criteria">
+                <source>The password does not fulfill the following criteria: {{ criteria }}.</source>
+                <target>The password does not fulfill the following criteria: {{ criteria }}.</target>
+            </trans-unit>
+            <trans-unit id="validators_password_incorrect">
+                <source>Password incorrect.</source>
+                <target>The password you entered is not correct.</target>
+            </trans-unit>
+            <trans-unit id="validators_passwords_dont_match">
+                <source>Passwords do not match</source>
+                <target>Passwords do not match.</target>
+            </trans-unit>
+            <trans-unit id="There are no recipients selected">
+                <source>There are no recipients selected</source>
+                <target>There are no recipients selected.</target>
+            </trans-unit>
+            <trans-unit id="min_1_category">
+                <source>Please select at least one category</source>
+                <target>Please select at least one category!</target>
+            </trans-unit>
+            <trans-unit id="min_1_hashtag">
+                <source>Please select at least one hashtag</source>
+                <target>Please select at least one hashtag!</target>
+            </trans-unit>
+            <trans-unit id="homeNoticeNoItem">
+                <source>There is not item with this id.</source>
+                <target>There is not item with this id.</target>
+            </trans-unit>
+            <trans-unit id="homeNotiveInvalidItemType">
+                <source>An item of this type ({{ type }}) can not be used as home notice.</source>
+                <target>An item of this type ({{ type }}) can not be used as home notice.</target>
+            </trans-unit>
+            <trans-unit id="homeNotiveInvalidId">
+                <source>The id is invalid.</source>
+                <target>The id is invalid.</target>
+            </trans-unit>
+            <trans-unit id="violation_missing_fields">
+                <source>The field {{ field }} is missing.</source>
+                <target>The field {{ field }} is missing.</target>
+            </trans-unit>
+            <trans-unit id="violation_extra_fields">
+                <source>The field {{ field }} was not expected.</source>
+                <target>The field {{ field }} was not expected.</target>
+            </trans-unit>
+            <trans-unit id="violation_not_blank">
+                <source>The value {{ value }} should not be blank.</source>
+                <target>The value {{ value }} should not be blank.</target>
+            </trans-unit>
+
+            <!-- csv user import -->
+            <trans-unit id="violation_csv_user_import_firstname_not_blank">
+                <source>The field firstname must not be blank.</source>
+                <target>The field "firstname" must not be blank.</target>
+            </trans-unit>
+            <trans-unit id="violation_csv_user_import_lastname_not_blank">
+                <source>The field lastname must not be blank.</source>
+                <target>The field "lastname" must not be blank.</target>
+            </trans-unit>
+            <trans-unit id="violation_csv_user_import_identifier_not_blank">
+                <source>The field identifier must not be blank.</source>
+                <target>The field "identifier" must not be blank.</target>
+            </trans-unit>
+            <trans-unit id="violation_csv_user_import_password_not_blank">
+                <source>The field password must not be blank.</source>
+                <target>The field "password" must not be blank.</target>
+            </trans-unit>
+            <trans-unit id="violation_csv_user_import_email_not_blank">
+                <source>The field email must not be blank.</source>
+                <target>The field "email" must not be blank.</target>
+            </trans-unit>
+            <trans-unit id="violation_csv_user_import_email_valid">
+                <source>The field email must be a valid email address.</source>
+                <target>The field "email" must be a valid email address.</target>
+            </trans-unit>
+            <trans-unit id="violation_csv_user_import_room_valid">
+                <source>The field rooms must be empty or a list of room ids.</source>
+                <target>The field "rooms" must be empty or a list of workspace ids.</target>
+            </trans-unit>
+            <trans-unit id="violation_unique_category">
+                <source>A category can only be used once per portfolio.</source>
+                <target>A category can only be used once per portfolio.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

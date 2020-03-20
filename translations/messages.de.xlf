@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="tip">
+                <source>tip</source>
+                <target>Tipp</target>
+            </trans-unit>
+            <trans-unit id="for">
+                <source>for</source>
+                <target>für</target>
+            </trans-unit>
+             <trans-unit id="1">
+                <source>by</source>
+                <target>von</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>when</source>
+                <target>wann</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>where</source>
+                <target>wo</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>last changed</source>
+                <target>zuletzt geändert</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>today</source>
+                <target>heute</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>EMail</source>
+                <target>E-Mail</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>changed by</source>
+                <target>geändert von</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>reference number</source>
+                <target>Referenznummer</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>creator</source>
+                <target>ErstellerIn</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>editors</source>
+                <target>Alle BearbeiterInnen</target>
+            </trans-unit>
+            <trans-unit id="11">
+                <source>clicked since last editing</source>
+                <target>Seit der letzten Bearbeitung aufgerufen von</target>
+            </trans-unit>
+            <trans-unit id="12">
+                <source>clicked since creating</source>
+                <target>Seit der Erstellung aufgerufen von</target>
+            </trans-unit>
+            <trans-unit id="13">
+                <source>new</source>
+                <target>Neuer Eintrag</target>
+            </trans-unit>
+            <trans-unit id="14">
+                <source>save</source>
+                <target>speichern</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>send</source>
+                <target>senden</target>
+            </trans-unit>
+            <trans-unit id="16">
+                <source>copy</source>
+                <target>kopieren</target>
+            </trans-unit>
+            <trans-unit id="17">
+                <source>print</source>
+                <target>drucken</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>trash</source>
+                <target>löschen</target>
+            </trans-unit>
+            <trans-unit id="19">
+                <source>description</source>
+                <target>Beschreibung</target>
+            </trans-unit>
+            <trans-unit id="20">
+                <source>files</source>
+                <target>Dateien</target>
+            </trans-unit>
+            <trans-unit id="21">
+                <source>links</source>
+                <target>Zuordnungen</target>
+            </trans-unit>
+            <trans-unit id="22">
+                <source>workflow</source>
+                <target>Workflow</target>
+            </trans-unit>
+            <trans-unit id="23">
+                <source>sections</source>
+                <target>Abschnitte</target>
+            </trans-unit>
+            <trans-unit id="24">
+                <source>entry description</source>
+                <target>Beschreibungstext</target>
+            </trans-unit>
+            <trans-unit id="25">
+                <source>workflow information</source>
+                <target>Workflow Informationen</target>
+            </trans-unit>
+            <trans-unit id="26">
+                <source>annotations</source>
+                <target>Anmerkungen</target>
+            </trans-unit>
+            <trans-unit id="27">
+                <source>quick navigation</source>
+                <target>Schnellnavigation</target>
+            </trans-unit>
+            <trans-unit id="28">
+                <source>new annotation</source>
+                <target>Neue Anmerkung</target>
+            </trans-unit>
+            <trans-unit id="29">
+                <source>new section</source>
+                <target>Neuer Abschnitt</target>
+            </trans-unit>
+            <trans-unit id="30">
+                <source>marked %count% entries as read</source>
+                 <target>{0} Keine Einträge als gelesen markiert.|{1} Ein Eintrag als gelesen markiert.|]1,Inf[ %count% Einträge als gelesen markiert.</target>
+           </trans-unit>            
+            <trans-unit id="31">
+                <source>%count% deleted entries</source>
+                 <target>{0} Keine Einträge gelöscht.|{1} Ein Eintrag gelöscht.|]1,Inf[ %count% Einträge gelöscht.</target>
+           </trans-unit>            
+            <trans-unit id="32">
+                <source>%count% copied entries</source>
+                 <target>{0} Keine Einträge kopiert.|{1} Ein Eintrag kopiert.|]1,Inf[ %count% Einträge kopiert.</target>
+           </trans-unit>            
+            <trans-unit id="33">
+                <source>action error</source>
+                 <target>Beim Ausführen der Aktion ist ein Fehler aufgetreten.</target>
+           </trans-unit>  
+            <trans-unit id="34">
+                <source>No more results found</source>
+                 <target>Keine weiteren Einträge vorhanden.</target>
+           </trans-unit>            
+           <trans-unit id="35">
+                <source>of</source>
+                <target>von</target>
+            </trans-unit>
+           <trans-unit id="36">
+                <source>newEntry</source>
+                <target>Neuer Eintrag</target>
+            </trans-unit>
+           <trans-unit id="37">
+                <source>changedEntry</source>
+                <target>Geänderter Eintrag</target>
+            </trans-unit>
+           <trans-unit id="38">
+                <source>newAnnotation</source>
+                <target>Neue Anmerkung</target>
+            </trans-unit>
+           <trans-unit id="39">
+                <source>changedAnnotation</source>
+                <target>Geänderte Anmerkung</target>
+            </trans-unit>
+            <trans-unit id="40">
+                <source>valid until</source>
+                <target>Gültig bis</target>
+            </trans-unit>
+            <trans-unit id="41">
+                <source>no telephone</source>
+                <target>Keine Telefonnummer angegeben</target>
+            </trans-unit>
+            <trans-unit id="42">
+                <source>no handy</source>
+                <target>Keine Mobilnummer angegeben</target>
+            </trans-unit>
+            <trans-unit id="43">
+                <source>no street</source>
+                <target>Keine Straße angegeben</target>
+            </trans-unit>
+            <trans-unit id="44">
+                <source>no city</source>
+                <target>Keine Stadt angegeben</target>
+            </trans-unit>
+            <trans-unit id="45">
+                <source>linked groups</source>
+                <target>Gruppenzugehörigkeit</target>
+            </trans-unit>
+            <trans-unit id="46">
+                <source>user data</source>
+                <target>Informationen zur Person</target>
+            </trans-unit>
+            <trans-unit id="47">
+                <source>date of birth</source>
+                <target>Geburtsdatum</target>
+            </trans-unit>
+            <trans-unit id="48">
+                <source>telephone</source>
+                <target>Telefon</target>
+            </trans-unit>
+            <trans-unit id="49">
+                <source>handy</source>
+                <target>Mobilnumme</target>
+            </trans-unit>
+            <trans-unit id="50">
+                <source>street</source>
+                <target>Straße</target>
+            </trans-unit>
+            <trans-unit id="51">
+                <source>city</source>
+                <target>Stadt</target>
+            </trans-unit>
+            <trans-unit id="52">
+                <source>user status</source>
+                <target>Rolle in diesem Raum</target>
+            </trans-unit>
+            <trans-unit id="53">
+                <source>email</source>
+                <target>E-Mail</target>
+            </trans-unit>
+            <trans-unit id="54">
+                <source>account information</source>
+                <target>Informationen zur Kennung</target>
+            </trans-unit>
+            <trans-unit id="55">
+                <source>members</source>
+                <target>Mitglieder</target>
+            </trans-unit>
+            <trans-unit id="56">
+                <source>send mail to group</source>
+                <target>E-Mail an die Gruppe senden</target>
+            </trans-unit>
+            <trans-unit id="57">
+                <source>enter grouproom</source>
+                <target>Den Gruppenraum betreten</target>
+            </trans-unit>
+            <trans-unit id="58">
+                <source>show all</source>
+                <target>Alle anzeigen</target>
+            </trans-unit>
+            <trans-unit id="insertTitle">
+                <source>insert title</source>
+                <target>Titel eingeben</target>
+            </trans-unit>
+            <trans-unit id="readMore">
+                <source>read more</source>
+                <target>mehr...</target>
+            </trans-unit>
+            <trans-unit id="readLess">
+                <source>read less</source>
+                <target>weniger...</target>
+            </trans-unit>
+            <trans-unit id="selected">
+                <source>selected</source>
+                <target>ausgewählt</target>
+            </trans-unit>
+             <trans-unit id="59">
+                <source>no files</source>
+                <target>Keine Dateien</target>
+            </trans-unit>
+             <trans-unit id="60">
+                <source>topic path</source>
+                <target>Pfad</target>
+            </trans-unit>
+             <trans-unit id="61">
+                <source>topic path activated</source>
+                <target>aktiviert</target>
+            </trans-unit>
+             <trans-unit id="62">
+                <source>topic path not activated</source>
+                <target>nicht aktiviert</target>
+            </trans-unit>
+            <trans-unit id="catsAndBuzz">
+                <source>categoriesAndBuzzwords</source>
+                <target>Struktur</target>
+            </trans-unit>
+            <trans-unit id="Entries">
+                <source>Entries</source>
+                <target>Einträge</target>
+            </trans-unit>
+            <trans-unit id="linkedEntries">
+                <source>linkedEntries</source>
+                <target>Zugeordnete Einträge</target>
+            </trans-unit>
+            <trans-unit id="categories">
+                <source>categories</source>
+                <target>Kategorien</target>
+            </trans-unit>
+            <trans-unit id="63">
+                <source>sort sections</source>
+                <target>Abschnitte sortieren</target>
+            </trans-unit>
+            <trans-unit id="sort steps">
+                <source>sort steps</source>
+                <target>Arbeitsschritte sortieren</target>
+            </trans-unit>
+            <trans-unit id="lastModifiedEntries">
+                <source>lastModifiedEntries</source>
+                <target>Zuletzt bearbeitet</target>
+            </trans-unit>
+            <trans-unit id="searchLinkedEntries">
+                <source>searchLinkedEntries</source>
+                <target>Suche</target>
+            </trans-unit>
+            <trans-unit id="message was send">
+                <source>message was send</source>
+                <target>Die Nachricht wurde verschickt</target>
+            </trans-unit>
+            <trans-unit id="new version">
+                <source>new version</source>
+                <target>Neue Version</target>
+            </trans-unit>
+            <trans-unit id="edit">
+                <source>edit</source>
+                <target>bearbeiten</target>
+            </trans-unit>
+            <trans-unit id="hide">
+                <source>hide</source>
+                <target>weniger ...</target>
+            </trans-unit>
+            <trans-unit id="unhide">
+                <source>unhide</source>
+                <target>mehr ...</target>
+            </trans-unit>
+            <trans-unit id="steps">
+                <source>steps</source>
+                <target>Arbeitsschritte</target>
+            </trans-unit>
+            <trans-unit id="newStep">
+                <source>new step</source>
+                <target>Neuer Arbeitsschritt</target>
+            </trans-unit>
+            <trans-unit id="entriesMarkedDone">
+                <source>Set status of %count% entries to done</source>
+                <target>{0} Kein Eintrag verändert.|{1} Status eines Eintrages auf "erledigt" gesetzt.|]1,Inf[ Status von %count% Einträgen auf "erledigt" gesetzt.</target>
+           </trans-unit>
+            <trans-unit id="entriesMarkedPending">
+                <source>Set status of %count% entries to pending</source>
+                <target>{0} Kein Eintrag verändert.|{1} Status eines Eintrages auf "nicht bearbeitet" gesetzt.|]1,Inf[ Status von %count% Einträgen auf "nicht bearbeitet" gesetzt.</target>
+           </trans-unit>
+            <trans-unit id="entriesMarkedInProgress">
+                <source>Set status of %count% entries to in progress</source>
+                <target>{0} Kein Eintrag verändert.|{1} Status eines Eintrages auf "in Bearbeitung" gesetzt.|]1,Inf[ Status von %count% Einträgen auf "in Bearbeitung" gesetzt.</target>
+           </trans-unit>
+           <trans-unit id="64">
+                <source>set status of %count% users to blocked</source>
+                 <target>{0} Keine Kennung gesperrt.|{1} Eine Kennung gesperrt.|]1,Inf[ %count% Kennungen gesperrt.</target>
+           </trans-unit> 
+            <trans-unit id="65">
+                <source>confirmed %count% users</source>
+                 <target>{0} Keine Kennung freigeschaltet.|{1} Eine Kennung freigeschaltet.|]1,Inf[ %count% Kennungen freigeschaltet.</target>
+           </trans-unit>
+           <trans-unit id="66">
+                <source>set status of %count% users to reading user</source>
+                 <target>{0} Kein Status verändert.|{1} Status eines Benutzers auf "LesendeR BenutzerIn" gesetzt.|]1,Inf[ Status von %count% Benutzer auf "LesendeR BenutzerIn" gesetzt.</target>
+           </trans-unit>
+           <trans-unit id="67">
+                <source>set status of %count% users to user</source>
+                 <target>{0} Kein Status verändert.|{1} Status eines Benutzers auf "Benutzer" gesetzt.|]1,Inf[ Status von %count% Benutzer auf "Benutzer" gesetzt.</target>
+           </trans-unit>
+           <trans-unit id="68">
+                <source>set status of %count% users to moderator</source>
+                 <target>{0} Kein Status verändert.|{1} Status eines Benutzers auf "Moderator" gesetzt.|]1,Inf[ Status von %count% Benutzer auf "Moderator" gesetzt.</target>
+           </trans-unit>
+           <trans-unit id="69">
+                <source>set status of %count% users to contact</source>
+                 <target>{0} Kein Status verändert.|{1} Ein Benutzer zu AnsprechpartnerIn gemacht.|]1,Inf[ %count% Benutzer zu Ansprechpartnern gemacht.</target>
+           </trans-unit>
+           <trans-unit id="70">
+                <source>removed contact status of %count% users</source>
+                 <target>{0} Kein Status verändert.|{1} Ein Benutzer als AnsprechpartnerIn entfernt.|]1,Inf[ %count% Benutzer als Ansprechpartnern entfernt.</target>
+             </trans-unit>
+            <trans-unit id="entriesMarkedInCustom">
+                <source>Set status of %count% entries to %status%</source>
+                <target>{0} Kein Eintrag verändert.|{1} Status eines Eintrages auf "%status%" gesetzt.|]1,Inf[ Status von %count% Einträgen auf "%status%" gesetzt.</target>
+           </trans-unit>
+           <trans-unit id="entriesInserted">
+                <source>inserted %count% entries in this room</source>
+                <target>{0} Keinen Eintrag in diesen Raum eingefügt.|{1} Einen Eintrag in diesen Raum eingefügt.|]1,Inf[ %count% Einträge in diesen Raum eingefügt.</target>
+           </trans-unit>
+           <trans-unit id="entriesRemoved">
+                <source>removed %count% entries from list</source>
+                <target>{0} Keinen Eintrag entfert.|{1} Einen Eintrag aus der Liste entfernt.|]1,Inf[ %count% Einträge aus der Liste entfernt.</target>
+           </trans-unit>
+           <trans-unit id="dashboardChanged">
+                <source>dashboard changed</source>
+                <target>Dashboard-Layout aktualisiert.</target>
+           </trans-unit>
+            <trans-unit id="delete_recurring_dates">
+                <source>trash recurring</source>
+                <target>Alle Termine der Serie löschen</target>
+            </trans-unit>
+
+            <trans-unit id="join">
+                <source>join</source>
+                <target>Beitreten</target>
+            </trans-unit>
+            <trans-unit id="leave">
+                <source>leave</source>
+                <target>Austreten</target>
+            </trans-unit>
+            <trans-unit id="withGrouproom">
+                <source>withGrouproom</source>
+                <target>(inkl. Gruppenraum)</target>
+            </trans-unit>
+            <trans-unit id="groupJoined">
+                <source>Joined group %s</source>
+                <target>Gruppe %s beigetreten</target>
+            </trans-unit>
+            <trans-unit id="groupLeft">
+                <source>Left group %s</source>
+                <target>Gruppe %s verlassen</target>
+            </trans-unit>
+            <trans-unit id="noEmail">
+                <source>no email</source>
+                <target>Keine Email-Adresse angegeben</target>
+            </trans-unit>
+            <trans-unit id="guest">
+                <source>guest</source>
+                <target>Gast</target>
+            </trans-unit>
+            <trans-unit id="invitation subject">
+                <source>invitation subject %portal%</source>
+                <target>Einladung CommSy-Portal "%portal%"</target>
+            </trans-unit>
+            <trans-unit id="invitation body">
+                <source>invitation body %portal% %link% %sender%</source>
+                <target>
+Sie wurden in den Raum %room% im CommSy-Portal %portal% eingeladen.
+Bitte legen Sie sich über folgenden Link eine Kennung für das Portal %portal% an, dieser ist 14 Tage gültig:
+%link%
+
+Nachdem Sie die Kennung angelegt und sich eingeloggt haben, können Sie über diesen Link zum Raum gelangen:
+%roomLink%
+Dort befinden sich Auswahlmöglichkeiten für die Teilnahme. Diese erfolgt je nach Raumeinstellung per Antrag oder per Code.
+Sollte im letzteren Fall der Code Ihnen nicht vorliegen, erfragen Sie diesen bitte bei der/dem Einladenden.
+
+Gruß ...
+%sender%
+                </target>
+            </trans-unit>
+            <trans-unit id="calendar">
+                <source>calendar</source>
+                <target>Kalender</target>
+            </trans-unit>
+            <trans-unit id="note">
+                <source>note</source>
+                <target>Hinweis:</target>
+            </trans-unit>
+            <trans-unit id="select_placeholder">
+                <source>Select some options</source>
+                <target>Treffen Sie eine Auswahl</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

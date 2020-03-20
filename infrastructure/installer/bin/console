@@ -1,0 +1,44 @@
+#!/usr/bin/env php
+<?php
+
+use App\Kernel;
+use Installer\Application;
+use Symfony\Component\Console\Input\ArgvInput;
+use Symfony\Component\Debug\Debug;
+use Symfony\Component\Filesystem\Filesystem;
+
+if (false === in_array(\PHP_SAPI, ['cli', 'phpdbg', 'embed'], true)) {
+    echo 'Warning: The console should be invoked via the CLI version of PHP, not the '.\PHP_SAPI.' SAPI'.\PHP_EOL;
+}
+
+umask(0000);
+
+set_time_limit(0);
+
+require realpath(__DIR__ . '/../vendor/autoload.php');
+
+$input = new ArgvInput();
+
+$env = $input->getParameterOption(['--env', '-e'], null, true);
+
+if($env === null){
+    $env = "dev";
+}
+
+putenv('APP_ENV='.$_SERVER['APP_ENV'] = $_ENV['APP_ENV'] = $env);
+
+if ($input->hasParameterOption('--no-debug', true)) {
+    putenv('APP_DEBUG='.$_SERVER['APP_DEBUG'] = $_ENV['APP_DEBUG'] = '0');
+}
+
+$rootPath = getcwd();
+
+if($input->hasParameterOption("--testing")){
+  $filesystem = new Filesystem();
+  $rootPath = $rootPath . DIRECTORY_SEPARATOR . "infrastructure" . DIRECTORY_SEPARATOR . "installer" . DIRECTORY_SEPARATOR . "test" . DIRECTORY_SEPARATOR . "dist" . DIRECTORY_SEPARATOR . uniqid();
+  $filesystem->remove($rootPath);
+  $filesystem->mkdir($rootPath);
+  $filesystem->mirror(getcwd() . DIRECTORY_SEPARATOR . "infrastructure" . DIRECTORY_SEPARATOR . "installer" . DIRECTORY_SEPARATOR . "test" . DIRECTORY_SEPARATOR . "fixtures", $rootPath);
+}
+
+(new Application($rootPath))->run($input);

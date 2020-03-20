@@ -1,0 +1,54 @@
+{% import 'utils/macros.html.twig' as macros %}
+
+{% for project in projects %}
+    <article class="uk-comment">
+           
+        {{ macros.statusColor(readerList, project.itemId) }}
+        <header class="uk-comment-header uk-flex">
+            <div class="items-checkbox uk-margin-right uk-margin-top uk-hidden">
+                <form class="uk-form">
+                    <input type="checkbox" value="{{ project.itemId }}">
+                </form>
+            </div>
+            <div class="uk-margin-right uk-flex-item-none">
+                    {% if not project.modificatorItem.isDeleted and project.modificatorItem.isUser %}
+                        {{ macros.userIconLink(project.modificatorItem) }}
+                    {% else %}
+                        {{ macros.userIcon(project.modificatorItem) }}
+                    {% endif %}
+                    <div class="uk-comment-meta">
+                        <span class="uk-text-nowrap">
+                            {% if project.modificationDate|date("d.m.Y") == "now"|date("d.m.Y") %}
+                                {{ 'today'|trans({})|capitalize }}, {{ project.modificationDate|date("H:i") }}
+                            {% else %}
+                                {% if '9999-00-00' not in project.modificationDate %}
+                                    {{ project.modificationDate|craue_date }}
+                                {% else %}
+                                    {{ project.creationDate|craue_date }}
+                                {% endif %}
+                            {% endif %}
+                        </span>
+                    </div>
+            </div>
+            <div>
+                <h4 class="uk-comment-title">
+                    <a href="{{ path('app_project_detail', {'roomId': roomId, 'itemId': project.itemId}) }}">{{ project.title|decodeHtmlEntity }}</a>
+                </h4>
+                
+                <div class="uk-comment-meta">
+                    {% if project.contactPersonString is not empty %}
+                        <a href="{{ path('app_user_sendmailviacontactform', {'roomId': roomId, 'itemId': project.creatorId, 'originPath': 'app_project_list'}) }}">{{ project.contactPersonString }}</a>
+                    {% else %}
+                        <a href="{{ path('app_user_sendmailviacontactform', {'roomId': roomId, 'itemId': project.creatorId, 'originPath': 'app_project_list'}) }}">{{ project.getContactModeratorListString }}</a>
+                    {% endif %}
+                </div>
+                
+                <div class="uk-comment-meta">
+                    {{ macros.contextLink(roomId, project, projectsMemberStatus[project.itemId]) }}
+                </div>
+            </div>
+        </header>
+    </article>
+{% else %}
+    {{ 'No more results found'|trans}}
+{% endfor %}

@@ -1,0 +1,114 @@
+######################
+# OS generated files #
+######################
+.*
+!.gitignore
+*~
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+######################
+# Symfony 2 related  #
+######################
+/phpunit.xml
+
+/var/*
+!/var/cache
+/var/cache/*
+!var/cache/.gitkeep
+!/var/cache/htmlpurifier
+/var/cache/htmlpurifier/*
+!var/cache/htmlpurifier/.gitkeep
+!/var/sessions
+/var/sessions/*
+!var/sessions/.gitkeep
+!var/SymfonyRequirements.php
+!/var/temp
+/var/temp/*
+!var/temp/.gitkeep
+
+/bin/*
+!bin/console
+!bin/symfony_requirements
+
+######################
+# Sublime related    #
+######################
+*.sublime-project
+*.sublime-workspace
+
+######################
+# CommSy related     #
+######################
+etc/cs_config.php
+legacy/etc/cs_config.php
+etc/commsy/*.php
+legacy/etc/commsy/*.php
+
+files/[0-9]*
+files/templates/individual/*
+files/temp
+
+external_pages/[0-9]*
+
+!.bowerrc
+!.gitlab-ci.yml
+!.travis.yml
+!.babelrc
+!.env
+!.env.test
+
+wikis/*
+
+mediawiki/*
+
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+###> liip/imagine-bundle ###
+/public/media/cache/
+###< liip/imagine-bundle ###
+
+###> symfony/phpunit-bridge ###
+.phpunit
+/phpunit.xml
+###< symfony/phpunit-bridge ###
+
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###
+
+###> symfony/webpack-encore-bundle ###
+/node_modules/
+/public/build/
+npm-debug.log
+yarn-error.log
+###< symfony/webpack-encore-bundle ###

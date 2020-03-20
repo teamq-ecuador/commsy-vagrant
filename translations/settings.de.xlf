@@ -1,0 +1,746 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="de" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="information">
+                <source>Information</source>
+                <target>Information</target>
+            </trans-unit>
+            <trans-unit id="useful_info">
+                <source>Useful information</source>
+                <target>Nützliche Info...</target>
+            </trans-unit>
+
+            <!-- General settings -->
+            <trans-unit id="general_configuration">
+                <source>General configuration</source>
+                <target>Allgemeine Einstellungen</target>
+            </trans-unit>
+            <trans-unit id="basic_settings">
+                <source>Basic settings</source>
+                <target>Grundeinstellungen</target>
+            </trans-unit>
+            <trans-unit id="rubric_selection">
+                <source>Rubric selection</source>
+                <target>Rubrikauswahl</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Off</source>
+                <target>Deaktiviert</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>Show</source>
+                <target>Anzeigen</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>Hide</source>
+                <target>Verbergen</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Never</source>
+                <target>Nie</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>Always</source>
+                <target>Immer</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Code</source>
+                <target>Code</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>User preferences</source>
+                <target>Persönliche Systemsprache</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>German</source>
+                <target>Deutsch</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>English</source>
+                <target>Englisch</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>Title</source>
+                <target>Titel</target>
+            </trans-unit>
+            <trans-unit id="11">
+                <source>Language</source>
+                <target>Systemsprache</target>
+            </trans-unit>
+            <trans-unit id="12">
+                <source>Room image</source>
+                <target>Raumbild</target>
+            </trans-unit>
+            <trans-unit id="room_logo">
+                <source>Room logo</source>
+                <target>Raumlogo</target>
+            </trans-unit>
+            <trans-unit id="13">
+                <source>Access check</source>
+                <target>Teilnahmeüberprüfung</target>
+            </trans-unit>
+            <trans-unit id="14">
+                <source>Room description</source>
+                <target>Raumbeschreibung</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>Save</source>
+                <target>Speichern</target>
+            </trans-unit>
+            <trans-unit id="16">
+                <source>Rubrics</source>
+                <target>Rubriken</target>
+            </trans-unit>
+            <trans-unit id="17">
+                <source>Room image choice</source>
+                <target>Raumbildtyp</target>
+            </trans-unit>
+            <trans-unit id="community_rooms">
+                <source>Community rooms</source>
+                <target>Zuordnung</target>
+            </trans-unit>
+            <trans-unit id="home">
+                <source>Home</source>
+                <target>Einstiegsseite</target>
+            </trans-unit>
+            <trans-unit id="announcement">
+                <source>Announcement</source>
+                <target>Ankündigungen</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>Date</source>
+                <target>Termine</target>
+            </trans-unit>
+            <trans-unit id="material">
+                <source>Material</source>
+                <target>Materialien</target>
+            </trans-unit>
+            <trans-unit id="project">
+                <source>project</source>
+                <target>Projekträume</target>
+            </trans-unit>
+            <trans-unit id="discussion">
+                <source>Discussion</source>
+                <target>Diskussionen</target>
+            </trans-unit>
+            <trans-unit id="user">
+                <source>User</source>
+                <target>Personen</target>
+            </trans-unit>
+            <trans-unit id="group">
+                <source>Group</source>
+                <target>Gruppen</target>
+            </trans-unit>
+            <trans-unit id="todo">
+                <source>Todo</source>
+                <target>Aufgaben</target>
+            </trans-unit>
+            <trans-unit id="task">
+                <source>Task</source>
+                <target>Themen</target>
+            </trans-unit>
+            <trans-unit id="topic">
+                <source>Topic</source>
+                <target>Themen</target>
+            </trans-unit>
+            <trans-unit id="defaultimage">
+                <source>Theme image</source>
+                <target>Theme-Bild</target>
+            </trans-unit>
+            <trans-unit id="customimage">
+                <source>Custom image</source>
+                <target>Eigenes Bild</target>
+            </trans-unit>
+            <trans-unit id="customimageupload">
+                <source>Room image upload</source>
+                <target>Bild hochladen</target>
+            </trans-unit>
+            <trans-unit id="deletecustomimage">
+                <source>Delete custom image</source>
+                <target>Bild löschen</target>
+            </trans-unit>
+            <trans-unit id="repeatbgimagex">
+                <source>Repeat x</source>
+                <target>Bild horizontal wiederholen</target>
+            </trans-unit>
+            <trans-unit id="basic_settings_text">
+                <source>Basic settings text</source>
+                <target>Legen Sie z.B. den Raumnamen fest, wählen Sie die Sprache des Raumes aus und entscheiden Sie, ob und wie eine Teilnahmeüberprüfung stattfinden soll. Außerdem können Sie die zentralen Zuordnungen für den Raum treffen.</target>
+            </trans-unit>
+            <trans-unit id="rubric_selection_text">
+                <source>Rubric selection text</source>
+                <target>Wählen Sie die Rubriken und ihre Reihenfolge aus. Die Option "Anzeigen" bedeutet, dass diese Rubrik in der Navigation erscheint. Die Option "Verbergen" bedeutet, dass die Einträge dieser Rubrik nicht im Bereich "Die neuesten Einträge in diesem Raum" auf der Einstiegsseite erscheinen. Die Option "Deaktiviert" bedeutet, dass diese Rubrik in dem CommSy-Raum nicht zur Verfügung steht. Die Reihenfolge der Rubriken im Navigationsmenü können Sie per Drag &amp; Drop konfigurieren.</target>
+            </trans-unit>
+            <trans-unit id="profile_image_tip">
+                <source>Rubric selection tip</source>
+                <target>RaummoderatorInnen bekommen die Rubrik "<![CDATA[<span class='uk-text-bold'>]]>Personen<![CDATA[</span>]]>" zur Verwaltung der Raummitglieder immer angezeigt.</target>
+            </trans-unit>
+            <trans-unit id="community_rooms_tip">
+                <source>Community rooms tip</source>
+                <target>Die Zuordnung des Projektraums zu Gemeinschaftsräumen ermöglicht der Moderation der Gemeinschaftsräume die Löschung des Projektraums und der dazugehörigen Gruppenräume.</target>
+            </trans-unit>
+            <trans-unit id="room_language_tip">
+                <source>Room language tip</source>
+                <target>Wählen Sie, ob eine raumspezifische Systemsprache oder die persönliche Systemsprache der einzelnen Raummitglieder genutzt werden soll.</target>
+            </trans-unit>
+            <trans-unit id="room_description_text">
+                <source>Room description text</source>
+                <target>Geben Sie noch eine zusätzliche Beschreibung an. Es sind max. 1000 Zeichen erlaubt.</target>
+            </trans-unit>      
+            
+            <!-- Additional settings -->
+            <trans-unit id="additional_configuration">
+                <source>Additional configuration</source>
+                <target>Zusätzliche Einstellungen</target>
+            </trans-unit>
+            <trans-unit id="tags">
+                <source>Buzzwords</source>
+                <target>Schlagwörter</target>
+            </trans-unit>
+            <trans-unit id="categories">
+                <source>Categories</source>
+                <target>Kategorien</target>
+            </trans-unit>
+            <trans-unit id="tasks">
+                <source>Tasks</source>
+                <target>Aufgaben</target>
+            </trans-unit>
+            <trans-unit id="template">
+                <source>Template</source>
+                <target>Vorlage</target>
+            </trans-unit>
+            <trans-unit id="templatestatus">
+                <source>Template status</source>
+                <target>Raum als Vorlage verfügbar machen.</target>
+            </trans-unit>
+            <trans-unit id="templateavailability">
+                <source>Template availability</source>
+                <target>Zielgruppe</target>
+            </trans-unit>
+            <trans-unit id="templatedescription">
+                <source>Template description</source>
+                <target>Beschreibung</target>
+            </trans-unit>
+            <trans-unit id="newstatus">
+                <source>Status</source>
+                <target>Neuer Status</target>
+            </trans-unit>
+            <trans-unit id="addstatus">
+                <source>Status option</source>
+                <target>Bearbeitungsstatus hinzufügen</target>
+            </trans-unit>
+            <trans-unit id="allcommsyusers">
+                <source>All commsy users</source>
+                <target>Alle CommSy-NutzerInnen</target>
+            </trans-unit>
+            <trans-unit id="allworkspaceusers">
+                <source>All workspace users</source>
+                <target>Alle Raummitglieder</target>
+            </trans-unit>
+            <trans-unit id="workspacemodsonly">
+                <source>Workspace mods only</source>
+                <target>Nur Raummoderatoren</target>
+            </trans-unit>
+            <trans-unit id="activate">
+                <source>Activate</source>
+                <target>Aktivieren</target>
+            </trans-unit>
+            <trans-unit id="mandatoryassignment">
+                <source>Mandatory</source>
+                <target>Zwingende Zuordnung</target>
+            </trans-unit>
+            <trans-unit id="associations">
+                <source>Associations</source>
+                <target>Zuordnungen</target>
+            </trans-unit>
+            <trans-unit id="ShowExpanded">
+                <source>Show expanded</source>
+                <target>Ausgeklappte Darstellung</target>
+            </trans-unit>
+            <trans-unit id="access">
+                <source>Edit</source>
+                <target>Nur durch ModeratorInnen bearbeitbar</target>
+            </trans-unit>
+            <trans-unit id="structural-auxiliaries">
+                <source>Structural auxiliaries</source>
+                <target>Strukturierungshilfen</target>
+            </trans-unit>
+            <trans-unit id="archiveroom">
+                <source>Archive room</source>
+                <target>Raum archivieren</target>
+            </trans-unit>
+            <trans-unit id="settings-label-archive">
+                <source>Archived</source>
+                <target>Archiviert</target>
+            </trans-unit>
+            <trans-unit id="terms">
+                <source>Terms</source>
+                <target>Nutzungsvereinbarungen</target>
+            </trans-unit>
+            <trans-unit id="status">
+                <source>Status</source>
+                <target>Status</target>
+            </trans-unit>
+            <trans-unit id="yes">
+                <source>Yes</source>
+                <target>Ja</target>
+            </trans-unit>
+            <trans-unit id="no">
+                <source>No</source>
+                <target>Nein</target>
+            </trans-unit>
+            <trans-unit id="switchon">
+                <source>Switch on</source>
+                <target>Einschalten (RSS-Abo für diesen Raum möglich)</target>
+            </trans-unit>
+            <trans-unit id="switchoff">
+                <source>Switch off</source>
+                <target>Ausschalten (kein RSS-Abo für diesen Raum)</target>
+            </trans-unit>
+            <trans-unit id="rss">
+                <source>RSS feed</source>
+                <target>RSS-Feed</target>
+            </trans-unit>
+            <trans-unit id="tasks_text">
+                <source>Tasks text</source>
+                <target>In der Aufgabenrubrik gibt es normalerweise drei Bearbeitungsstatus: "nicht bearbeitet", "in Bearbeitung" und "erledigt". Hier können Sie bei Bedarf noch eigene zusätzliche Status definieren.</target>
+            </trans-unit>   
+            <trans-unit id="template_text">
+                <source>Template text</source>
+                <target>Machen Sie diesen Raum als Vorlage für neue Räume verfügbar. Bei Auswahl einer Vorlage beim Eröffnen eines Raumes werden sämtliche Voreinstellungen und Inhalte der Vorlage in den neuen Raum übernommen, mit Ausnahme der Informationen zu Personen.</target>
+            </trans-unit>
+            <trans-unit id="archive_text">
+                <source>Archive text</source>
+                <target>In archivierten Räumen können keine Änderungen mehr vorgenommen werden.</target>
+            </trans-unit>
+            <trans-unit id="archive_text_permanently_archived">
+                <source>Archive text permanently archived</source>
+                <target>Der Zugriff auf alle Inhalte bleibt aber weiterhin bestehen.</target>
+            </trans-unit>
+            <trans-unit id="archive_text_deletion_warning">
+                <source>Archive text deletion warning</source>
+                <target>Bei Archivierung dieses Raumes wird dieser nach %days% Tagen Nichtnutzung gelöscht.</target>
+            </trans-unit>
+            <trans-unit id="terms_text">
+                <source>Terms text</source>
+                <target>Hiermit werden Nutzungsvereinbarungen in den Prozess zur Anmeldung der Teilnahme an diesem Raum integriert. Potentielle TeilnehmerInnen müssen die AGBs akzeptieren, um Zutritt zu diesem Raum zu erhalten.</target>
+            </trans-unit>
+
+            <!-- Appearance settings -->
+            <trans-unit id="appearance_configuration">
+                <source>Appearance configuration</source>
+                <target>Darstellung</target>
+            </trans-unit>            
+            <trans-unit id="configure_events">
+                <source>Configure events</source>
+                <target>Termindarstellung</target>
+            </trans-unit>
+            <trans-unit id="configure_color_theme">
+                <source>Configure color theme</source>
+                <target>Farbkonfiguration</target>
+            </trans-unit>
+            <trans-unit id="listview">
+                <source>listview</source>
+                <target>Listenansicht</target>
+            </trans-unit>            
+            <trans-unit id="weekview">
+                <source>weekview</source>
+                <target>Wochenansicht</target>
+            </trans-unit>
+            <trans-unit id="monthview">
+                <source>monthview</source>
+                <target>Monatsansicht</target>
+            </trans-unit>
+            <trans-unit id="Dates status">
+                <source>Dates status</source>
+                <target>Auswahl</target>
+            </trans-unit>
+            <trans-unit id="Theme">
+                <source>Theme</source>
+                <target>Theme</target>
+            </trans-unit>
+            <trans-unit id="configure_events_text">
+                <source>Configure events text</source>
+                <target>Wählen Sie zwischen der Listendarstellung, dem Terminkalender in der Wochenansicht oder dem Terminkalender in der Monatsansicht als voreingestellte Darstellung der Termine in diesem Raum.</target>
+            </trans-unit>
+            <trans-unit id="configure_color_theme_text">
+                <source>Configure color theme text</source>
+                <target>Hier können Sie zwischen verschiedenen Farbschemata für diesen Raum auswählen.</target>
+            </trans-unit>
+            <trans-unit id="room_image_text">
+                <source>Room image text</source>
+                <target>Sie können entweder das Standardbild des aktuellen Themes verwenden oder ein eigenes Hintergrundbild für die Startseite des Raumes hochladen.</target>
+            </trans-unit>
+            <trans-unit id="room_image_tip">
+                <source>Room image tip</source>
+                <target>Für eine optimale Anzeige sollte das Seitenverhältnis des Bildes höchstens 5:1 betragen und die horizontale Auflösung mindestens 1300 Pixel.</target>
+            </trans-unit>
+            <trans-unit id="room_logo_text">
+                <source>Room logo text</source>
+                <target>Wählen Sie hier ein Raumlogo aus, das auf der Startseite über dem Hintergrundbild eingeblendet werden kann.</target>
+            </trans-unit>
+            <trans-unit id="room_logo_tip">
+                <source>Room logo tip</source>
+                <target>Bilder mit transparentem Hintergrund eignen sich besonders gut als Raumlogo.</target>
+            </trans-unit>
+            <trans-unit id="theme_default">
+                <source>default</source>
+                <target>Standard</target>
+            </trans-unit>
+            <trans-unit id="theme_football">
+                <source>football</source>
+                <target>Fussball</target>
+            </trans-unit>
+            <trans-unit id="theme_stars">
+                <source>stars</source>
+                <target>Sterne</target>
+            </trans-unit>
+            <trans-unit id="theme_sun">
+                <source>sun</source>
+                <target>Sonne</target>
+            </trans-unit>
+            <trans-unit id="theme_ocean">
+                <source>ocean</source>
+                <target>Ozean</target>
+            </trans-unit>
+            <trans-unit id="theme_schulcommsyhh">
+                <source>schulcommsyhh</source>
+                <target>Schul-CommSy Hamburg</target>
+            </trans-unit>
+            <trans-unit id="theme_confetti">
+                <source>confetti</source>
+                <target>Konfetti</target>
+            </trans-unit>
+            <trans-unit id="theme_grey">
+                <source>grey</source>
+                <target>Grau</target>
+            </trans-unit>
+            <trans-unit id="theme_darkblue">
+                <source>darkblue</source>
+                <target>Dunkelblau</target>
+            </trans-unit>
+            <trans-unit id="theme_red">
+                <source>red</source>
+                <target>Rot</target>
+            </trans-unit>
+            <trans-unit id="theme_redgrey">
+                <source>redgrey</source>
+                <target>Rotgrau</target>
+            </trans-unit>
+            <trans-unit id="theme_uhh">
+                <source>uhh</source>
+                <target>UHH</target>
+            </trans-unit>
+
+            <!-- Moderation settings -->
+            <trans-unit id="moderation_configuration">
+                <source>Moderation support configuration</source>
+                <target>Moderationsunterstützung</target>
+            </trans-unit>            
+            <trans-unit id="contentid">
+                <source>Content ID</source>
+                <target>Referenznummer</target>
+            </trans-unit>
+            <trans-unit id="arrayrubric">
+                <source>Array info text rubric</source>
+                <target>Rubrik</target>
+            </trans-unit>
+            <trans-unit id="rubric_message">
+                <source>Message</source>
+                <target>Text</target>
+            </trans-unit>
+            <trans-unit id="arrayrubricmail">
+                <source>Array mail text rubric</source>
+                <target>E-Mail-Texte</target>
+            </trans-unit>
+            <trans-unit id="showinfo">
+                <source>Show info</source>
+                <target>Anzeigen</target>
+            </trans-unit>
+            <trans-unit id="donotshowinfo">
+                <source>Do not show info</source>
+                <target>Ausblenden</target>
+            </trans-unit>
+            <trans-unit id="mailbodyde">
+                <source>body_de</source>
+                <target>Inhalt (Deutsch)</target>
+            </trans-unit>
+            <trans-unit id="mailbodyen">
+                <source>body_en</source>
+                <target>Inhalt (Englisch)</target>
+            </trans-unit>
+            <trans-unit id="homenotice">
+                <source>Homenotice</source>
+                <target>Hinweistext auf der Einstiegsseite</target>
+            </trans-unit>
+            <trans-unit id="usage-notes">
+                <source>Usage notes</source>
+                <target>Nutzungshinweise</target>
+            </trans-unit>
+            <trans-unit id="email_configuration">
+                <source>Email configuration</source>
+                <target>E-Mail-Konfiguration</target>
+            </trans-unit>
+            <trans-unit id="homenotice_text">
+                <source>Homenotice text</source>
+                <target>Sie können ein Material, eine Aufgabe, einen Termin oder eine Ankündigung als prominenten Hinweistext auf der Einstiegsseite anzeigen. Bitte geben Sie die Referenznummer des gewünschten Eintrags ein. Die Referenznummer finden Sie unterhalb eines Titels eines Eintrags, indem Sie auf das Pfeil-Icon (rechts neben "Bearbeiten") klicken.</target>
+            </trans-unit>
+            <trans-unit id="usernotice_text">
+                <source>Usage notes text</source>
+                <target>Wählen Sie die Rubriken, in denen Sie Hinweise platzieren möchten.</target>
+            </trans-unit>
+            <trans-unit id="email_configuration_text">
+                <source>Email configuration text</source>
+                <target>Konfiguration der E-Mail-Texte, die über das System verschickt werden.</target>
+            </trans-unit>
+
+            <trans-unit id="email_select_text">
+                <source>Select e-mail text</source>
+                <target>Bitte wählen Sie eine Vorlage aus</target>
+            </trans-unit>
+            <trans-unit id="email_address">
+                <source>Address</source>
+                <target>Anrede</target>
+            </trans-unit>
+            <trans-unit id="email_salutation">
+                <source>Salutation</source>
+                <target>Grußformel</target>
+            </trans-unit>
+            <trans-unit id="email_delete_account">
+                <source>Delete account</source>
+                <target>Kennung löschen</target>
+            </trans-unit>
+            <trans-unit id="email_lock_account">
+                <source>Lock account</source>
+                <target>Kennung sperren</target>
+            </trans-unit>
+            <trans-unit id="email_approve_membership">
+                <source>Approve membership</source>
+                <target>Kennung freischalten / Status BenutzerIn</target>
+            </trans-unit>
+            <trans-unit id="email_change_status_moderator">
+                <source>Change status: moderator</source>
+                <target>Status Moderator</target>
+            </trans-unit>
+            <trans-unit id="email_change_status_contact_person">
+                <source>Change status: contact person</source>
+                <target>Zur/Zum AnsprechpartnerIn machen</target>
+            </trans-unit>
+            <trans-unit id="email_change_status_no_contact_person">
+                <source>Change status: no contact person</source>
+                <target>Status AnsprechpartnerIn entfernen</target>
+            </trans-unit>
+            <trans-unit id="email_change_status_read_only_user">
+                <source>Change status: read only user</source>
+                <target>Status lesendeR BenutzerIn</target>
+            </trans-unit>
+
+            <!-- Extension settings -->
+            <trans-unit id="extensions_configuration">
+                <source>Extensions configuration</source>
+                <target>Erweiterungen</target>
+            </trans-unit>
+            <trans-unit id="assessment">
+                <source>Assessment</source>
+                <target>Bewertungen</target>
+            </trans-unit>                        
+            <trans-unit id="workflow">
+                <source>Workflow</source>
+                <target>Workflow Einstellungen</target>
+            </trans-unit>            
+            <trans-unit id="workflow_resubmission">
+                <source>Resubmission</source>
+                <target>Wiedervorlage</target>
+            </trans-unit>
+            <trans-unit id="workflow_validity">
+                <source>Validity</source>
+                <target>2. Wiedervorlage</target>
+            </trans-unit>
+            <trans-unit id="workflow_trafic_light">
+                <source>Status view</source>
+                <target>Status-Anzeige</target>
+            </trans-unit>
+            <trans-unit id="workflow_green_text">
+                <source>Traffic light green text</source>
+                <target>Grün</target>
+            </trans-unit>  
+            <trans-unit id="workflow_yellow_text">
+                <source>Traffic light yellow text</source>
+                <target>Gelb</target>
+            </trans-unit>
+            <trans-unit id="workflow_red_text">
+                <source>Traffic light red text</source>
+                <target>Rot</target>
+            </trans-unit>
+            <trans-unit id="reader">
+                <source>Reader</source>
+                <target>In diesem Raum verwenden</target>
+            </trans-unit>
+            <trans-unit id="reader_group">
+                <source>Reader group</source>
+                <target>Gruppenbezogen</target>
+            </trans-unit>
+            <trans-unit id="reader_person">
+                <source>Reader person</source>
+                <target>Personenbezogen</target>
+            </trans-unit>
+            <trans-unit id="reader_view">
+                <source>Reader view</source>
+                <target>Leseranzeige</target>
+            </trans-unit>
+            <trans-unit id="mods_only">
+                <source>Moderators only</source>
+                <target>Leseranzeige nur für Moderatoren</target>
+            </trans-unit>            
+            <trans-unit id="all_users">
+                <source>All users</source>
+                <target>Leseranzeige für alle Benutzer</target>
+            </trans-unit>
+            <trans-unit id="wiki">
+                <source>wiki</source>
+                <target>Wiki</target>
+            </trans-unit>            
+            <trans-unit id="wiki_enabled">
+                <source>Wiki enabled</source>
+                <target>Wiki aktivieren</target>
+            </trans-unit>
+            <trans-unit id="assessment_text">
+                <source>Assessment text</source>
+                <target>Wenn diese Funktion aktiviert ist, können Einträge innerhalb von Räumen bewertet werden.</target>
+            </trans-unit>
+            <trans-unit id="workflow_text">
+                <source>Workflow text</source>
+                <target>Die Workflow Einstellungen sind Zusatzfunktionen für die Rubrik Materialien, um den Redaktionsprozess zu koordinieren.</target>
+            </trans-unit>
+            <trans-unit id="wiki_Text">
+                <source>wiki text</source>
+                <target>Setzen Sie diese Checkbox, um das Wiki zu aktivieren.</target>
+            </trans-unit>
+            <trans-unit id="default_state">
+                <source>Default status</source>
+                <target>Standard-Status</target>
+            </trans-unit>
+            <trans-unit id="no_default_state">
+                <source>No default status</source>
+                <target>Kein Standard-Status</target>
+            </trans-unit>
+            <trans-unit id="status_description">
+                <source>Status description</source>
+                <target>Status-Beschreibung</target>
+            </trans-unit>
+            <trans-unit id="open_for_guest">
+                <source>Is this room open for guests?</source>
+                <target>Ist der Raum für Gäste zugänglich?</target>
+            </trans-unit>
+            <trans-unit id="material_open_for_guest">
+                <source>Are materials open for guests?</source>
+                <target>Sind Materialien für Gäste zugänglich?</target>
+            </trans-unit>
+            <trans-unit id="assignment_restricted">
+                <source>Only members are allow to assign project rooms</source>
+                <target>Nur Raummitgliedern gestatten Projekträume zuzuweisen</target>
+            </trans-unit>
+            <trans-unit id="guest_access">
+                <source>Guest Access</source>
+                <target>Gastzugang</target>
+            </trans-unit>
+
+            <!-- Invitations -->
+            <trans-unit id="send">
+                <source>Send</source>
+                <target>Einladung verschicken</target>
+            </trans-unit>
+
+            <!-- Delete -->
+            <trans-unit id="settings_delete_title">
+                <source>Delete room</source>
+                <target>Raum löschen</target>
+            </trans-unit>
+            <trans-unit id="settings_delete_intro">
+                <source>Delete intro</source>
+                <target>Achtung: Der gesamte Raum und alle Daten werden gelöscht. Dieser Vorgang kann nicht rückgängig gemacht werden!</target>
+            </trans-unit>
+            <trans-unit id="settings_delete_explanation_start">
+                <source>Delete explanation start</source>
+                <target>Bitte geben Sie </target>
+            </trans-unit>
+            <trans-unit id="settings_delete_explanation_end">
+                <source>Delete explanation end</source>
+                <target>ein und bestätigen den Vorgang.</target>
+            </trans-unit>
+            <trans-unit id="settings_delete_grouprooms">
+                <source>Deletion of grouprooms</source>
+                <target>Das Löschen dieses Projektraums führt ebenfalls auch zur Löschung der folgenden ihm untergeordneten Gruppenräume</target>
+            </trans-unit>
+            <trans-unit id="settings_delete_confirm_label">
+                <source>Confirm</source>
+                <target>Bestätigen</target>
+            </trans-unit>
+            <trans-unit id="settings_delete_button">
+                <source>Delete</source>
+                <target>Löschen</target>
+            </trans-unit>
+            <trans-unit id="Invitations">
+                <source>Invitations</source>
+                <target>Einladungen</target>
+            </trans-unit>
+            <trans-unit id="Invitation">
+                <source>New invitation</source>
+                <target>Neue Einladung</target>
+            </trans-unit>
+            <trans-unit id="New invitation text">
+                <source>New invitation text</source>
+                <target>Geben Sie hier die E-Mail Adresse für eine neue Einladung an. Der Empfänger erhält eine E-Mail mit einem einmalig nutzbaren Aktivierungscode.</target>
+            </trans-unit>
+            <trans-unit id="Remove invitation">
+                <source>Remove invitation</source>
+                <target>Einladungen löschen</target>
+            </trans-unit>
+            <trans-unit id="Remove invitation text">
+                <source>Remove invitation text</source>
+                <target>Wählen Sie die Einladungen aus, die Sie löschen möchten. Die aufgelisteten Einladungen sind noch nicht eingelöst worden.</target>
+            </trans-unit>
+            <trans-unit id="Email-adrress of new invitee">
+                <source>Email-adrress of new invitee</source>
+                <target>E-Mail Adresse</target>
+            </trans-unit>
+            <trans-unit id="An invitation for this email-address already exists in this portal">
+                <source>An invitation for this email-address already exists in this portal</source>
+                <target>Eine Einladung für diese E-Mail Adresse existiert bereits in diesem Portal</target>
+            </trans-unit>
+            <trans-unit id="settings_time_context">
+                <source>Time context</source>
+                <target>Zeittakte</target>
+            </trans-unit>
+            <trans-unit id="settings_time_context_description">
+                <source>Time context description</source>
+                <target>Wählen Sie die Zeittakte für Ihren Raum aus.</target>
+            </trans-unit>
+            <trans-unit id="settings_time_context_cont">
+                <source>continuous</source>
+                <target>kontinuierlich</target>
+            </trans-unit>
+            <trans-unit id="users_can_edit_calendars">
+                <source>users_can_edit_calendars</source>
+                <target>BenutzerInnen können Kalender bearbeiten</target>
+            </trans-unit>
+            <trans-unit id="users_can_set_external_calendars_url">
+                <source>users_can_set_external_calendars_url</source>
+                <target>BenutzerInnen können Adressen für externe Kalender bearbeiten</target>
+            </trans-unit>
+            <trans-unit id="rss_enabled">
+                <source>rss_enabled</source>
+                <target>Einschalten (RSS-Abo für diesen Raum möglich)</target>
+            </trans-unit>
+            <trans-unit id="rss_disabled">
+                <source>rss_disabled</source>
+                <target>Ausschalten (kein RSS-Abo für diesen Raum)</target>
+            </trans-unit>
+            <trans-unit id="Portal terms">
+                <source>Portal terms</source>
+                <target>Vorlagen</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

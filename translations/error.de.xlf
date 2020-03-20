@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="error-common">
+                <source>common error</source>
+                <target>Allgemeiner Fehler</target>
+            </trans-unit>
+            <trans-unit id="error-upload">
+                <source>upload error</source>
+                <target>Upload fehlgeschlagen, bitte verwenden Sie eine kleinere Datei.</target>
+            </trans-unit>
+            <trans-unit id="error-deprecated-markup">
+                <source>deprecated markup</source>
+                <target>Die Anzeige von %markup% wird nicht mehr unterstützt, bitte betten Sie Medieninhalte direkt über den Editor ein.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

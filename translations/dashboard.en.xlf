@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="rssFeeds">
+                <source>rss feeds</source>
+                <target>RSS Feeds</target>
+            </trans-unit>
+            <trans-unit id="externalAccess">
+                <source>external access</source>
+                <target>External access</target>
+            </trans-unit>
+            <trans-unit id="externalAccessMyEntries">
+                <source>external access to my entries</source>
+                <target>External access to my entries</target>
+            </trans-unit>
+            <trans-unit id="externalAccessOtherEntries">
+                <source>external access to other entries</source>
+                <target>External access to other entries</target>
+            </trans-unit>
+            <trans-unit id="noItems">
+                <source>no items</source>
+                <target>No items</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

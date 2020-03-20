@@ -1,0 +1,151 @@
+{% use "form_div_layout.html.twig" %}
+
+{# Widgets #}
+
+{%- block form_widget_compound -%}
+    <fieldset>
+        {{- parent() -}}
+    </fieldset>
+{%- endblock form_widget_compound -%}
+
+{% block button_widget -%}
+    {% set attr = attr|merge({class: (attr.class|default('') ~ ' uk-button')|trim}) %}
+    {{- parent() -}}
+{%- endblock %}
+
+{% block file_widget -%}
+    {% if image_url is defined and image_url is not null %}
+        <img src="{{ app.request.baseURL }}/room/{{ app.request.attributes.get('roomId') }}/image"/>
+    {% endif %}
+
+    <div class="uk-placeholder cs-upload-form">
+        <i class="uk-icon-cloud-upload uk-icon-medium uk-text-muted uk-margin-small-right"></i>
+        {{ 'Attach files by dropping them here or'|trans({}, 'form') }}<br/>
+        <a class="uk-form-file">{{ 'selecting one'|trans({}, 'form') }}{{ block('form_widget') }}</a>.
+    </div>
+
+    <div class="uk-progress uk-hidden">
+        <div class="uk-progress-bar" style="width: 0%;">...</div>
+    </div>
+{%- endblock %}
+
+{% block select2_choice_widget %}
+    {% spaceless %}
+        {% set attr = attr|merge({class: (attr.class|default('') ~ ' js-select2-choice')|trim}) %}
+        {% set attr = attr|merge({'data-placeholder': 'Select some options'|trans({}, 'messages')}) %}
+
+        {{ block('choice_widget') }}
+    {% endspaceless %}
+{% endblock %}
+
+{# Labels #}
+
+{% block form_label -%}
+    {%- set label_attr = label_attr|merge({class: (label_attr.class|default('') ~ ' uk-form-label')|trim}) -%}
+
+    {%- if help is not empty -%}
+        {%- if translation_domain is same as(false) -%}
+            {%- if help_html is same as(false) -%}
+                {%- set help_title = help -%}
+            {%- else -%}
+                {%- set help_title = help|raw -%}
+            {%- endif -%}
+        {%- else -%}
+            {%- if help_html is same as(false) -%}
+                {%- set help_title = help|trans(help_translation_parameters, translation_domain) -%}
+            {%- else -%}
+                {%- set help_title = help|trans(help_translation_parameters, translation_domain)|raw -%}
+            {%- endif -%}
+        {%- endif -%}
+        {%- set label_attr = label_attr|merge({class: (label_attr.class|default('') ~ ' cs-form-label-help')|trim, 'data-uk-tooltip': "{pos:'bottom-left'}", title: help_title}) -%}
+    {%- endif -%}
+
+    {{- parent() -}}
+{%- endblock form_label %}
+
+{# Rows #}
+
+{%- block form_row -%}
+    {{- form_label(form) -}}
+    {{- form_errors(form) -}}
+    {{- form_widget(form) -}}
+{%- endblock form_row -%}
+
+{%- block button_row -%}
+    {{- form_widget(form) -}}
+{%- endblock button_row -%}
+
+{# Misc #}
+
+{% block form_start -%}
+    {% set attr = attr|merge({class: (attr.class|default('') ~ ' uk-form')|trim}) %}
+    {{- parent() -}}
+{%- endblock form_start %}
+
+{% macro nestedChoiceTree(choices, level) %}
+    {% import _self as nestedMacro %}
+    {% set opened = false %}
+
+    {% for child in choices %}
+        {% if child.choices is defined %}
+            <ul>
+                {{ nestedMacro.nestedChoiceTree(child.choices, level+1) }}
+            </ul>
+        {% else %}
+            {% if not loop.first %}
+                </li>
+            {% endif %}
+
+            <li id="tag_{{ child.value }}" data-jstree='{"opened": {{ opened }}}'>
+            {{ child.label }}
+        {% endif %}
+    {% endfor %}
+{% endmacro %}
+
+{% block treechoice_widget %}
+    {% import _self as treeMacro %}
+    <div class="uk-hidden">
+        {% if form.children is not empty %}
+            {% for child in form.children %}
+                <input type="checkbox" id="{{ child.vars.id }}" name="{{ child.vars.full_name }}" value="{{ child.vars.value }}" {% if child.vars.checked %} checked="checked"{% endif %} />
+            {% endfor %}
+        {% endif %}
+    </div>
+
+    <div id="item-categories" data-cs-tree>
+        <ul class="uk-list uk-list-striped">
+            {{ treeMacro.nestedChoiceTree(form.vars.choices, 0) }}
+            </li>
+        </ul>
+    </div>
+{% endblock treechoice_widget %}
+
+{% block date_time_widget %}
+   {% for child in form %}
+        <div style="float:left;">
+            {{ form_widget(child) }}
+        </div>
+    {% endfor %}
+    <div style="clear:both"></div>
+{% endblock %}
+
+{%- block time_widget -%}
+    {%- if widget == 'single_text' -%}
+        {{ block('form_widget_simple') }}
+    {%- else -%}
+        {%- set vars = widget == 'text' ? { 'attr': { 'size': 2 }} : {} -%}
+        <div {{ block('widget_container_attributes') }}>
+            {{ form_widget(form.hour, vars) }}{% if with_minutes %}:{{ form_widget(form.minute, vars) }}{% endif %}{% if with_seconds %}:{{ form_widget(form.second, vars) }}{% endif %}
+        </div>
+    {%- endif -%}
+{%- endblock time_widget -%}
+
+{%- block form_errors -%}
+    {%- if errors|length > 0 -%}
+        <ul class="form-errors">
+            {%- for error in errors -%}
+                <li>{{ error.message }}</li>
+            {%- endfor -%}
+        </ul>
+    {%- endif -%}
+{%- endblock form_errors -%}

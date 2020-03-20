@@ -1,0 +1,407 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="form-add">
+                <source>Add</source>
+                <target>Add</target>
+            </trans-unit>
+            <trans-unit id="form-filter">
+                <source>Filter</source>
+                <target>Filter</target>
+            </trans-unit>
+            <trans-unit id="form-filter-hide-deactivated-entries">
+                <source>Hide-deactivated-entries</source>
+                <target>Hide deactivated entries</target>
+            </trans-unit>
+            <trans-unit id="form-filter-hide-completed-entries">
+                <source>Hide-completed-entries</source>
+                <target>Hide completed entries</target>
+            </trans-unit>
+            <trans-unit id="form-filter-hide-invalid-entries">
+                <source>Hide-invalid-entries</source>
+                <target>Hide invalid entries</target>
+            </trans-unit>
+            <trans-unit id="form-filter-past-dates">
+                <source>Hide-past-dates</source>
+                <target>Hide past dates</target>
+            </trans-unit>
+            <trans-unit id="form-filter-no-member-groups">
+                <source>Hide-groups-without-membership</source>
+                <target>Hide groups without membership</target>
+            </trans-unit>
+             <trans-unit id="form-save">
+                <source>save</source>
+                <target>Save</target>
+            </trans-unit>
+            <trans-unit id="form-cancel">
+                <source>cancel</source>
+                <target>Cancel</target>
+            </trans-unit>
+            <trans-unit id="form-upload-1">
+                <source>Attach files by dropping them here or</source>
+                <target>Attach files by dropping them here.</target>
+            </trans-unit>
+            <trans-unit id="form-upload-2">
+                <source>selecting one</source>
+                <target>Alternatively you can use the file selection dialog</target>
+            </trans-unit>
+            <trans-unit id="form-ideal-aspect-ratio">
+                <source>ideal aspect ratio</source>
+                <target>The ideal aspect ratio for workspace images is 4&#58;1 (Width&#58;Height).</target>
+            </trans-unit>
+            <trans-unit id="form-edit-files">
+                <source>edit files</source>
+                <target>edit files</target>
+            </trans-unit>
+            <trans-unit id="form-edit-description">
+                <source>edit description</source>
+                <target>edit description</target>
+            </trans-unit>
+            <trans-unit id="form-title">
+                <source>title</source>
+                <target>title</target>
+            </trans-unit>
+            <trans-unit id="form-filter-group">
+                <source>group</source>
+                <target>Group</target>
+            </trans-unit>
+            <trans-unit id="form-filter-topic">
+                <source>topic</source>
+                <target>Topic</target>
+            </trans-unit>
+            <trans-unit id="form-setting-theme">
+                <source>theme</source>
+                <target>Theme</target>
+            </trans-unit>
+            <trans-unit id="form-bib-plain">
+                <source>plain</source>
+                <target>Plain text</target>
+            </trans-unit>
+            <trans-unit id="form-bib-book">
+                <source>book</source>
+                <target>Book</target>
+            </trans-unit>
+            <trans-unit id="form-bib-collection">
+                <source>collection</source>
+                <target>Collection</target>
+            </trans-unit>
+            <trans-unit id="form-bib-article">
+                <source>article</source>
+                <target>Article from edited volume</target>
+            </trans-unit>
+            <trans-unit id="form-bib-journal">
+                <source>journal</source>
+                <target>Journal article</target>
+            </trans-unit>
+            <trans-unit id="form-bib-chapter">
+                <source>chapter</source>
+                <target>Book chapter</target>
+            </trans-unit>
+            <trans-unit id="form-bib-newspaper">
+                <source>newspaper</source>
+                <target>Newspaper article</target>
+            </trans-unit>
+            <trans-unit id="form-bib-thesis">
+                <source>thesis</source>
+                <target>Thesis</target>
+            </trans-unit>
+            <trans-unit id="form-bib-manuscript">
+                <source>manuscript</source>
+                <target>Manuscript</target>
+            </trans-unit>
+            <trans-unit id="form-bib-website">
+                <source>website</source>
+                <target>Website</target>
+            </trans-unit>
+            <trans-unit id="form-bib-document-management">
+                <source>document management</source>
+                <target>Document management</target>
+            </trans-unit>
+            <trans-unit id="form-bib-picture">
+                <source>picture</source>
+                <target>Picture</target>
+            </trans-unit>
+            <trans-unit id="form-bib-select">
+                <source>bib reference</source>
+                <target>Bibl. reference</target>
+            </trans-unit>
+            <trans-unit id="form-bib-author">
+                <source>author</source>
+                <target>Author</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-date">
+                <source>publishing date</source>
+                <target>Year</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-editor">
+                <source>editor</source>
+                <target>Editor</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-booktitle">
+                <source>booktitle</source>
+                <target>Booktitle</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-publisher">
+                <source>publisher</source>
+                <target>Publisher</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-address">
+                <source>address</source>
+                <target>Address</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-edition">
+                <source>edition</source>
+                <target>Edition</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-series">
+                <source>series</source>
+                <target>Series</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-volume">
+                <source>volume</source>
+                <target>Volume</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-isbn">
+                <source>isbn</source>
+                <target>ISBN</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-url">
+                <source>url</source>
+                <target>URL</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-visited">
+                <source>visited</source>
+                <target>Visited</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-journal">
+                <source>journal</source>
+                <target>Journal</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-issue">
+                <source>issue</source>
+                <target>Issue</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-pages">
+                <source>pages</source>
+                <target>Pages</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-issn">
+                <source>issn</source>
+                <target>ISSN</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-thesis-kind">
+                <source>thesis kind</source>
+                <target>Thesis kind</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-university">
+                <source>university</source>
+                <target>University</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-faculty">
+                <source>faculty</source>
+                <target>Faculty</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-maintainer">
+                <source>maintainer</source>
+                <target>Maintainer</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-release-number">
+                <source>release number</source>
+                <target>Release number</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-number">
+                <source>number</source>
+                <target>Number</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-release-date">
+                <source>release date</source>
+                <target>Release date</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-picture-reason">
+                <source>picture reason</source>
+                <target>Picture reason</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-picture-copyright">
+                <source>picture copyright</source>
+                <target>Copyright</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-picture-date">
+                <source>picture date</source>
+                <target>Date</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-url-date">
+                <source>url date</source>
+                <target>URL date</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-thesis-term">
+                <source>term</source>
+                <target>Term paper</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-thesis-bachelor">
+                <source>bachelor</source>
+                <target>BA thesis</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-thesis-master">
+                <source>master</source>
+                <target>MA thesis</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-thesis-exam">
+                <source>exam</source>
+                <target>MA thesis</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-thesis-diploma">
+                <source>diploma</source>
+                <target>Diploma thesis</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-thesis-dissertation">
+                <source>dissertation</source>
+                <target>Dissertation</target>
+            </trans-unit>
+            <trans-unit id="form-bib-field-thesis-postdoc">
+                <source>postdoc</source>
+                <target>Professorial dissertation</target>
+            </trans-unit>
+            <trans-unit id="form-permission">
+                <source>permission</source>
+                <target>Only editable by creator</target>
+            </trans-unit>
+            <trans-unit id="form-permission-info">
+                <source>permission-info</source>
+                <target>By checking this option, this entry can only be edited by its creator (%name%) or the moderator.</target>
+            </trans-unit>
+            <trans-unit id="form-no-restrictions">
+                <source>no restrictions</source>
+                <target>No restrictions</target>
+            </trans-unit>
+            <trans-unit id="form-group-all">
+                <source>ALL</source>
+                <target>All</target>
+            </trans-unit>
+            <trans-unit id="edit workflow">
+                <source>edit workflow</source>
+                <target>Edit workflow</target>
+            </trans-unit>
+            <trans-unit id="announcement">
+                <source>announcement</source>
+                <target>Announcements</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>date</source>
+                <target>Dates</target>
+            </trans-unit>
+            <trans-unit id="todo">
+                <source>todo</source>
+                <target>Tasks</target>
+            </trans-unit>
+            <trans-unit id="material">
+                <source>material</source>
+                <target>Materials</target>
+            </trans-unit>
+            <trans-unit id="project">
+                <source>project</source>
+                <target>Project workspaces</target>
+            </trans-unit>
+            <trans-unit id="discussion">
+                <source>discussion</source>
+                <target>Discussions</target>
+            </trans-unit>
+            <trans-unit id="person">
+                <source>user</source>
+                <target>Persons</target>
+            </trans-unit>
+            <trans-unit id="topic">
+                <source>topic</source>
+                <target>Topics</target>
+            </trans-unit>
+            <trans-unit id="group">
+                <source>group</source>
+                <target>Groups</target>
+            </trans-unit>
+            <trans-unit id="all">
+                <source>all</source>
+                <target>All</target>
+            </trans-unit>
+            <trans-unit id="any">
+                <source>any</source>
+                <target>Any</target>
+            </trans-unit>
+            <trans-unit id="public">
+                <source>public</source>
+                <target>Accessable Entries</target>
+            </trans-unit>
+            <trans-unit id="formYes">
+                <source>Yes</source>
+                <target>Yes</target>
+            </trans-unit>
+            <trans-unit id="formNo">
+                <source>No</source>
+                <target>No</target>
+            </trans-unit>
+            <trans-unit id="subject">
+                <source>subject</source>
+                <target>Subject</target>
+            </trans-unit>
+            <trans-unit id="message">
+                <source>message</source>
+                <target>Message</target>
+            </trans-unit>
+            <trans-unit id="send">
+                <source>send</source>
+                <target>Send</target>
+            </trans-unit>
+            <trans-unit id="form-button-delete">
+                <source>Delete</source>
+                <target>Delete</target>
+            </trans-unit>
+            <trans-unit id="form-button-edit">
+                <source>Edit</source>
+                <target>Edit</target>
+            </trans-unit>
+            <trans-unit id="editor_switch">
+                <source>use etherpad</source>
+                <target>Use etherpad</target>
+            </trans-unit>
+            <trans-unit id="hidden">
+                <source>hidden</source>
+                <target>deactivated</target>
+            </trans-unit>
+            <trans-unit id="hiddendate">
+                <source>hidden until</source>
+                <target>deactivated until</target>
+            </trans-unit>
+            <trans-unit id="date-from">
+                <source>Date-from</source>
+                <target>From</target>
+            </trans-unit>
+            <trans-unit id="date-until">
+                <source>Date-until</source>
+                <target>Until</target>
+            </trans-unit>
+            <trans-unit id="type">
+                <source>Type</source>
+                <target>Type</target>
+            </trans-unit>
+            <trans-unit id="addNewHashtag">
+                <source>addNewHashtag</source>
+                <target>add hashtag</target>
+            </trans-unit>
+            <trans-unit id="final_choice">
+                <source>etherpadText</source>
+                <target><![CDATA[<span style='word-break: keep-all;'><div class='uk-margin-small-bottom'>]]>Etherpad allows multiple users to work concurrently on the same material but provides fewer options than the default editor. <![CDATA[</div><br/><div class='uk-text-bold'>]]>This option cannot be changed afterwards!<![CDATA[</div>]]></target>
+            </trans-unit>
+            <trans-unit id="form_external_viewer">
+                <source>External viewer</source>
+                <target>External viewer</target>
+            </trans-unit>
+            <trans-unit id="form_external_viewer_desc">
+                <source>external_viewer_desc</source>
+                <target>You can provide a white-space separated list of usernames to grant access on this entry.</target>
+            </trans-unit>
+            <trans-unit id="create entry">
+                <source>create entry</source>
+                <target>Create entry</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

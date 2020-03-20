@@ -1,0 +1,415 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="confirmChange">
+                <source>confirm change</source>
+                <target>Termin ändern</target>
+            </trans-unit>
+            <trans-unit id="confirmChangeCancel">
+                <source>confirm change cancel</source>
+                <target>Abbrechen</target>
+            </trans-unit>
+            <trans-unit id="confirmChangeOk">
+                <source>confirm change ok</source>
+                <target>Ok</target>
+            </trans-unit>
+            <trans-unit id="dateChanged">
+                <source>date changed</source>
+                <target>Termin geändert</target>
+            </trans-unit>
+            <trans-unit id="calendar">
+                <source>calendar</source>
+                <target>Kalender</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>date</source>
+                <target>Termin</target>
+            </trans-unit>
+            <trans-unit id="place">
+                <source>place</source>
+                <target>Ort</target>
+            </trans-unit>
+            <trans-unit id="particpants">
+                <source>participants</source>
+                <target>Teilnehmer</target>
+            </trans-unit>
+            <trans-unit id="no particpants">
+                <source>no participants</source>
+                <target>keine Teilnehmer</target>
+            </trans-unit>
+            <trans-unit id="info">
+                <source>info</source>
+                <target>Info</target>
+            </trans-unit>
+            <trans-unit id="edit info">
+                <source>edit info</source>
+                <target>Info bearbeiten</target>
+            </trans-unit>
+            <trans-unit id="color">
+                <source>color</source>
+                <target>Farbe</target>
+            </trans-unit>
+            <trans-unit id="startdate">
+                <source>startdate</source>
+                <target>Beginn</target>
+            </trans-unit>
+            <trans-unit id="enddate">
+                <source>enddate</source>
+                <target>Ende</target>
+            </trans-unit>
+            <trans-unit id="wholeday">
+                <source>Whole day</source>
+                <target>Ganztägig</target>
+            </trans-unit>
+            <trans-unit id="recurring date">
+                <source>recurring date</source>
+                <target>Serientermin</target>
+            </trans-unit>
+            <trans-unit id="RecurringDailyType">
+                <source>RecurringDailyType</source>
+                <target>Täglich</target>
+            </trans-unit>
+            <trans-unit id="RecurringWeeklyType">
+                <source>RecurringWeeklyType</source>
+                <target>Wöchentlich</target>
+            </trans-unit>
+            <trans-unit id="RecurringMonthlyType">
+                <source>RecurringMonthlyType</source>
+                <target>Monatlich</target>
+            </trans-unit>
+            <trans-unit id="RecurringYearlyType">
+                <source>RecurringYearlyType</source>
+                <target>Jährlich</target>
+            </trans-unit>
+            <trans-unit id="recurrenceDay">
+                <source>recurrenceDay</source>
+                <target>Tag</target>
+            </trans-unit>
+            <trans-unit id="untilDate">
+                <source>untilDate</source>
+                <target>Enddatum</target>
+            </trans-unit>
+            <trans-unit id="recurrenceWeek">
+                <source>recurrenceWeek</source>
+                <target>Woche</target>
+            </trans-unit>
+            <trans-unit id="recurrenceDaysOfWeek">
+                <source>recurrenceDaysOfWeek</source>
+                <target>Wochentag</target>
+            </trans-unit>
+            <trans-unit id="recurrenceMonth">
+                <source>recurrenceMonth</source>
+                <target>Monat</target>
+            </trans-unit>
+            <trans-unit id="recurrenceDayOfMonthInterval">
+                <source>recurrenceDayOfMonthInterval</source>
+                <target>des Monats</target>
+            </trans-unit>
+            <trans-unit id="recurrenceDayOfMonth">
+                <source>recurrenceDayOfMonth</source>
+                <target>Tag des Monats</target>
+            </trans-unit>
+            <trans-unit id="recurrenceMonthOfYear">
+                <source>recurrenceMonthOfYear</source>
+                <target>Monat des Jahres</target>
+            </trans-unit>
+            <trans-unit id="first">
+                <source>first</source>
+                <target>ersten</target>
+            </trans-unit>
+            <trans-unit id="second">
+                <source>second</source>
+                <target>zweiten</target>
+            </trans-unit>
+            <trans-unit id="third">
+                <source>third</source>
+                <target>dritten</target>
+            </trans-unit>
+            <trans-unit id="fourth">
+                <source>fourth</source>
+                <target>vierten</target>
+            </trans-unit>
+            <trans-unit id="fifth">
+                <source>fifth</source>
+                <target>fünften</target>
+            </trans-unit>
+            <trans-unit id="last">
+                <source>last</source>
+                <target>letzten</target>
+            </trans-unit>
+            <trans-unit id="monday">
+                <source>monday</source>
+                <target>Montag</target>
+            </trans-unit>
+            <trans-unit id="tuesday">
+                <source>tuesday</source>
+                <target>Dienstag</target>
+            </trans-unit>
+            <trans-unit id="wednesday">
+                <source>wednesday</source>
+                <target>Mittwoch</target>
+            </trans-unit>
+            <trans-unit id="thursday">
+                <source>thursday</source>
+                <target>Donnerstag</target>
+            </trans-unit>
+            <trans-unit id="friday">
+                <source>friday</source>
+                <target>Freitag</target>
+            </trans-unit>
+            <trans-unit id="saturday">
+                <source>saturday</source>
+                <target>Samstag</target>
+            </trans-unit>
+            <trans-unit id="sunday">
+                <source>sunday</source>
+                <target>Sonntag</target>
+            </trans-unit>
+            <trans-unit id="january">
+                <source>january</source>
+                <target>Januar</target>
+            </trans-unit>
+            <trans-unit id="february">
+                <source>february</source>
+                <target>Februar</target>
+            </trans-unit>
+            <trans-unit id="march">
+                <source>march</source>
+                <target>März</target>
+            </trans-unit>
+            <trans-unit id="april">
+                <source>april</source>
+                <target>April</target>
+            </trans-unit>
+            <trans-unit id="may">
+                <source>may</source>
+                <target>Mai</target>
+            </trans-unit>
+            <trans-unit id="june">
+                <source>june</source>
+                <target>Juni</target>
+            </trans-unit>
+            <trans-unit id="july">
+                <source>july</source>
+                <target>Juli</target>
+            </trans-unit>
+            <trans-unit id="august">
+                <source>august</source>
+                <target>August</target>
+            </trans-unit>
+            <trans-unit id="september">
+                <source>september</source>
+                <target>September</target>
+            </trans-unit>
+            <trans-unit id="october">
+                <source>october</source>
+                <target>Oktober</target>
+            </trans-unit>
+            <trans-unit id="november">
+                <source>november</source>
+                <target>November</target>
+            </trans-unit>
+            <trans-unit id="december">
+                <source>december</source>
+                <target>Dezember</target>
+            </trans-unit>
+            <trans-unit id="dailyDescription">
+                <source>dailyDescription</source>
+                <target>Jeden %day%. Tag, bis: %date%</target>
+            </trans-unit>
+            <trans-unit id="weeklyDescription">
+                <source>weeklyDescription</source>
+                <target>Jede %week%. Woche, jeden %daysOfWeek%, bis: %date%</target>
+            </trans-unit>
+            <trans-unit id="monthlyDescription">
+                <source>monthlyDescription</source>
+                <target>Jeden %month%. Monat am %day% %dayOfWeek%, bis: %date%</target>
+            </trans-unit>
+            <trans-unit id="yearlyDescription">
+                <source>yearlyDescription</source>
+                <target>Jeden %day%. %month%, bis: %date%</target>
+            </trans-unit>
+            <trans-unit id="recurring date no chance hint">
+                <source>recurring date no chance hint</source>
+                <target>Diese Einstellungen können nicht verändert werden</target>
+            </trans-unit>
+            <trans-unit id="every">
+                <source>every</source>
+                <target>Jeden</target>
+            </trans-unit>
+            <trans-unit id="every week">
+                <source>every week</source>
+                <target>Jede</target>
+            </trans-unit>
+            <trans-unit id="day">
+                <source>day</source>
+                <target>Tag</target>
+            </trans-unit>
+            <trans-unit id="week">
+                <source>week</source>
+                <target>Woche</target>
+            </trans-unit>
+            <trans-unit id="month">
+                <source>month</source>
+                <target>Monat</target>
+            </trans-unit>
+            <trans-unit id="repeat until">
+                <source>repeat until</source>
+                <target>Wiederholen bis</target>
+            </trans-unit>
+            <trans-unit id="saveThisDate">
+                <source>saveThisDate</source>
+                <target>Für diesen Termin speichern</target>
+            </trans-unit>
+            <trans-unit id="saveAllDates">
+                <source>saveAllDates</source>
+                <target>Für alle Termine der Serie speichern</target>
+            </trans-unit>
+            <trans-unit id="short date description">
+                <source>short date description</source>
+                <target>Am %date%</target>
+            </trans-unit>
+            <trans-unit id="short date and time description">
+                <source>short date and time description</source>
+                <target>Am %date% um %time% Uhr</target>
+            </trans-unit>
+            <trans-unit id="short date and time range description">
+                <source>short date and time range description</source>
+                <target>Am %date% von %timeStart% Uhr bis %timeEnd% Uhr</target>
+            </trans-unit>
+            <trans-unit id="short date range description">
+                <source>short date range description</source>
+                <target>%dateStart% bis %dateEnd%</target>
+            </trans-unit>
+            <trans-unit id="short date range and time range description">
+                <source>short date range and time range description</source>
+                <target>%dateStart%, %timeStart% Uhr bis %dateEnd%, %timeEnd% Uhr</target>
+            </trans-unit>
+            <trans-unit id="number of days description">
+                <source>number of days description</source>
+                <target>%numberOfDays% Tage</target>
+            </trans-unit>
+            <trans-unit id="add participant">
+                <source>add participant</source>
+                <target>Teilnahme zusagen</target>
+            </trans-unit>
+            <trans-unit id="remove participant">
+                <source>remove participant</source>
+                <target>Teilnahme absagen</target>
+            </trans-unit>
+            <trans-unit id="calendar view">
+                <source>calendar view</source>
+                <target>Kalender</target>
+            </trans-unit>
+            <trans-unit id="list view">
+                <source>list view</source>
+                <target>Liste</target>
+            </trans-unit>
+            <trans-unit id="prevYear">
+                <source>prevYear</source>
+                <target>vorheriges Jahr</target>
+            </trans-unit>
+            <trans-unit id="prev">
+                <source>prev</source>
+                <target>vorheriger Monat / Woche / Tag</target>
+            </trans-unit>
+            <trans-unit id="next">
+                <source>next</source>
+                <target>nächster Monat / Woche / Tag</target>
+            </trans-unit>
+            <trans-unit id="nextYear">
+                <source>nextYear</source>
+                <target>nächstes Jahr</target>
+            </trans-unit>
+            <trans-unit id="date_action_export">
+                <source>export dates</source>
+                <target>Termine exportieren</target>
+            </trans-unit>
+            <trans-unit id="date_action_abo">
+                <source>abo dates</source>
+                <target>Termine abonnieren</target>
+            </trans-unit>
+            <trans-unit id="calendars">
+                <source>calendars</source>
+                <target>Kalender</target>
+            </trans-unit>
+            <trans-unit id="Calendar">
+                <source>Calendar</source>
+                <target>Kalender</target>
+            </trans-unit>
+            <trans-unit id="Standard">
+                <source>Standard</source>
+                <target>Standard</target>
+            </trans-unit>
+            <trans-unit id="Grey">
+                <source>Grey</source>
+                <target>Grau</target>
+            </trans-unit>
+            <trans-unit id="Red">
+                <source>Red</source>
+                <target>Rot</target>
+            </trans-unit>
+            <trans-unit id="Orange">
+                <source>Orange</source>
+                <target>Orange</target>
+            </trans-unit>
+            <trans-unit id="Gold">
+                <source>Gold</source>
+                <target>Gold</target>
+            </trans-unit>
+            <trans-unit id="Yellow">
+                <source>Yellow</source>
+                <target>Gelb</target>
+            </trans-unit>
+            <trans-unit id="Green">
+                <source>Green</source>
+                <target>Grün</target>
+            </trans-unit>
+            <trans-unit id="Turquoise">
+                <source>Turquoise</source>
+                <target>Türkis</target>
+            </trans-unit>
+            <trans-unit id="Blue">
+                <source>Blue</source>
+                <target>Blau</target>
+            </trans-unit>
+            <trans-unit id="Purple">
+                <source>Purple</source>
+                <target>Violett</target>
+            </trans-unit>
+            <trans-unit id="Magenta">
+                <source>Magenta</source>
+                <target>Magenta</target>
+            </trans-unit>
+            <trans-unit id="dateIsExternal">
+                <source>date is external</source>
+                <target>Dieser Eintrag gehört zu einem externen Kalender und kann daher nicht bearbeitet werden</target>
+            </trans-unit>
+            <trans-unit id="import dates">
+                <source>import dates</source>
+                <target>Termine importieren</target>
+            </trans-unit>
+            <trans-unit id="import dates description">
+                <source>import dates description</source>
+                <target>Bitte wählen Sie eine oder mehrere .ics-Dateien aus, und laden Sie diese hoch. Die enthaltenen Termine werden dem ausgewählten Kalender hinzugefügt. Termine dieses Kalenders die über eine UID eindeutig zuvor schon importierten Terminen zugeordnet werden können, werden aktualisiert. In der .isc-Datei nicht mehr enthaltete Termine des Kalenders werden gelöscht.</target>
+            </trans-unit>
+            <trans-unit id="import dates into clendar">
+                <source>import dates into clendar</source>
+                <target>Kalender</target>
+            </trans-unit>
+            <trans-unit id="new calendar">
+                <source>new calendar</source>
+                <target>... einen neuen Kalender anlegen (bitte Titel und Farbe angeben)</target>
+            </trans-unit>
+            <trans-unit id="import dates new calendar name">
+                <source>import dates new calendar name</source>
+                <target>Name des neuen Kalenders</target>
+            </trans-unit>
+            <trans-unit id="import dates new calendar color">
+                <source>import dates new calendar color</source>
+                <target>Farbe des neuen Kalenders</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

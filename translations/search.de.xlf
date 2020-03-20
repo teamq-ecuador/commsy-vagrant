@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="search">
+                <source>Search</source>
+                <target>Suchen</target>
+            </trans-unit>
+            <trans-unit id="search-form-placeholder">
+                <source>Search in room...</source>
+                <target>Suche im Raum...</target>
+            </trans-unit>
+            <trans-unit id="search-no-results-room">
+                <source>no rooms found</source>
+                <target>Keine Räume gefunden</target>
+            </trans-unit>
+            <trans-unit id="search-instant-header">
+                <source>best matches</source>
+                <target>Beste Treffer</target>
+            </trans-unit>
+            <trans-unit id="search-more-results">
+                <source>more results</source>
+                <target>Mehr Ergebnisse</target>
+            </trans-unit>
+            <trans-unit id="search-no-results">
+                <source>No results found</source>
+                <target>Keine Treffer gefunden</target>
+            </trans-unit>
+            <trans-unit id="search-results-title">
+                <source>Search for "%query%" (%totalHits% Hits)</source>
+                <target>Suche nach "%query%" (%totalHits% Treffer)</target>
+            </trans-unit>
+            <trans-unit id="search-results-restrict">
+                <source>Restrict Results</source>
+                <target>Ergebnisse einschränken</target>
+            </trans-unit>
+            <trans-unit id="search-results-top50">
+                <source>Top 50 matches</source>
+                <target>Die 50 besten Treffer (nach Aktivität und Raumtyp sortiert)</target>
+            </trans-unit>
+            <trans-unit id="search-filter-all-my-rooms">
+                <source>Search in all my rooms</source>
+                <target>Suche in allen meinen Räumen</target>
+            </trans-unit>
+            <trans-unit id="search-filter-appearing-in">
+                <source>Appearing in</source>
+                <target>Muss vorkommen in</target>
+            </trans-unit>
+            <trans-unit id="search-filter-appearing-in-title">
+                <source>Title</source>
+                <target>Titel</target>
+            </trans-unit>
+            <trans-unit id="search-filter-appearing-in-description">
+                <source>Description</source>
+                <target>Beschreibung</target>
+            </trans-unit>
+            <trans-unit id="search-filter-appearing-in-files">
+                <source>Files</source>
+                <target>Dateien</target>
+            </trans-unit>
+            <trans-unit id="search-filter-creator">
+                <source>Creator</source>
+                <target>ErstellerIn</target>
+            </trans-unit>
+            <trans-unit id="search-filter-hashtags">
+                <source>Hashtags</source>
+                <target>Schlagwörter</target>
+            </trans-unit>
+            <trans-unit id="search-filter-categories">
+                <source>Categories</source>
+                <target>Kategorien</target>
+            </trans-unit>
+            <trans-unit id="search-filter-created-range">
+                <source>Created from/until</source>
+                <target>Erstellt von/bis</target>
+            </trans-unit>
+            <trans-unit id="search-filter-last-modified-range">
+                <source>Last modified from/until</source>
+                <target>Zuletzt geändert von/bis</target>
+            </trans-unit>
+            <trans-unit id="search-filter-rubric">
+                <source>Rubric</source>
+                <target>Rubrik</target>
+            </trans-unit>
+            <trans-unit id="search-filter-rubric-labels">
+                <source>Groups, Topics and Institutions</source>
+                <target>Gruppen, Themen &amp; Institutionen</target>
+            </trans-unit>
+            <trans-unit id="room-search">
+                <source>Room search</source>
+                <target>Raumsuche</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,9 @@
+version: "3.4"
+
+services:
+  etherpad:
+    build: ./docker/etherpad
+
+  commsy_php:
+    depends_on:
+      - etherpad

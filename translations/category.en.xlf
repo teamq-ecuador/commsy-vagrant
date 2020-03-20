@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="category-title">
+                <source>Categories</source>
+                <target>Categories</target>
+            </trans-unit>
+            <trans-unit id="category-new">
+                <source>New Category</source>
+                <target>New Category</target>
+            </trans-unit>
+            <trans-unit id="category-none">
+                <source>No Categories</source>
+                <target>There are no Categories yet</target>
+            </trans-unit>
+            <trans-unit id="category-title-edit">
+                <source>Edit categories</source>
+                <target>Edit categories</target>
+            </trans-unit>
+            <trans-unit id="category-edit">
+                <source>Edit category</source>
+                <target>Edit category</target>
+            </trans-unit>
+            <trans-unit id="category-label-title">
+                <source>Title</source>
+                <target>Title</target>
+            </trans-unit>
+            <trans-unit id="category-button-add">
+                <source>Create new category</source>
+                <target>Create new category</target>
+            </trans-unit>
+            <trans-unit id="category-button-update">
+                <source>Update category</source>
+                <target>Update category</target>
+            </trans-unit>
+            <trans-unit id="category-empty">
+                <source>No categories have been created yet.</source>
+                <target>No categories have been created yet.</target>
+            </trans-unit>
+            <trans-unit id="category-combine">
+                <source>Combine categories</source>
+                <target>Combine categories</target>
+            </trans-unit>
+            <trans-unit id="combine">
+                <source>Combine</source>
+                <target>Combine</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

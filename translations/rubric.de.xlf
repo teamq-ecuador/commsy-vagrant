@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="de" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="announcement">
+                <source>Announcement</source>
+                <target>{0}Ankündigung|{1}Ankündigungen</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>Date</source>
+                <target>{0}Termin|{1}Termine</target>
+            </trans-unit>
+            <trans-unit id="material">
+                <source>Material</source>
+                <target>{0}Material|{1}Materialien</target>
+            </trans-unit>
+            <trans-unit id="discussion">
+                <source>Discussion</source>
+                <target>{0}Diskussion|{1}Diskussionen</target>
+            </trans-unit>
+            <trans-unit id="user">
+                <source>User</source>
+                <target>{0}Person|{1}Personen</target>
+            </trans-unit>
+            <trans-unit id="group">
+                <source>Group</source>
+                <target>{0}Gruppe|{1}Gruppen</target>
+            </trans-unit>
+            <trans-unit id="todo">
+                <source>Todo</source>
+                <target>{0}Aufgabe|{1}Aufgaben</target>
+            </trans-unit>
+            <trans-unit id="task">
+                <source>Task</source>
+                <target>{0}Thema|{1}Themen</target>
+            </trans-unit>
+            <trans-unit id="topic">
+                <source>Topic</source>
+                <target>{0}Thema|{1}Themen</target>
+            </trans-unit>
+            <trans-unit id="rubric_institution">
+                <source>institution</source>
+                <target>one: Institution|some: Institutionen</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>filter entries</source>
+                <target>Einschränkungen nach Einträgen</target>
+            </trans-unit>
+             <trans-unit id="11">
+                <source>title</source>
+                <target>Titel</target>
+            </trans-unit>
+             <trans-unit id="12">
+                <source>modifier</source>
+                <target>BearbeiterIn</target>
+            </trans-unit>
+             <trans-unit id="13">
+                <source>modification_date</source>
+                <target>Bearbeitungsdatum</target>
+            </trans-unit>
+             <trans-unit id="14">
+                <source>list sort</source>
+                <target>Einträge sortieren</target>
+            </trans-unit>
+             <trans-unit id="15">
+                <source>list choice</source>
+                <target>Einträge bearbeiten</target>
+            </trans-unit>
+             <trans-unit id="16">
+                <source>Roomlist</source>
+                <target>Raum wechseln</target>
+            </trans-unit>            
+             <trans-unit id="17">
+                <source>find rooms</source>
+                <target>Raum suchen</target>
+            </trans-unit>            
+             <trans-unit id="18">
+                <source>days</source>
+                <target>Tage</target>
+            </trans-unit>            
+             <trans-unit id="19">
+                <source>new Entries</source>
+                <target>Neue Beiträge</target>
+            </trans-unit>            
+             <trans-unit id="20">
+                <source>dashboard description text</source>
+                <target>Ihr persönlicher Bereich mit vielen Funktionen und Widgets.</target>
+            </trans-unit>            
+             <trans-unit id="21">
+                <source>own rooms</source>
+                <target>Meine Räume</target>
+            </trans-unit>
+             <trans-unit id="22">
+                <source>room search text</source>
+                <target>Eingrenzen nach z.B. Name, Beschreibung, ModeratorIn, ... </target>
+            </trans-unit>           
+             <trans-unit id="23">
+                <source>dashboard</source>
+                <target>Dashboard</target>
+            </trans-unit>           
+             <trans-unit id="24">
+                <source>Home</source>
+                <target>Einstiegsseite</target>
+            </trans-unit>           
+             <trans-unit id="25">
+                <source>settings</source>
+                <target>Einstellungen</target>
+            </trans-unit>
+            <trans-unit id="26">
+                <source>unset list choice</source>
+                <target>Bearbeitung ausschalten</target>
+            </trans-unit>
+            <trans-unit id="27">
+                <source>select shown entries</source>
+                <target>Angezeigte Einträge auswählen</target>
+            </trans-unit>
+            <trans-unit id="28">
+                <source>select all entries</source>
+                <target>Alle Einträge auswählen</target>
+            </trans-unit>
+            <trans-unit id="29">
+                <source>unselect entries</source>
+                <target>Auswahl aufheben</target>
+            </trans-unit>
+            <trans-unit id="30">
+                <source>selected entries</source>
+                <target>Aktion auswählen</target>
+            </trans-unit>
+            <trans-unit id="action_insert">
+                <source>insert</source>
+                <target>Einfügen in "%roomname%"</target>
+            </trans-unit>
+            <trans-unit id="action_insert_stack">
+                <source>insert stack</source>
+                <target>Einfügen in "Meine Ablage"</target>
+            </trans-unit>
+            <trans-unit id="action_remove">
+                <source>remove</source>
+                <target>Löschen aus "Meine Kopien"</target>
+            </trans-unit>
+            <trans-unit id="31">
+                <source>mark read</source>
+                <target>Als gelesen markieren</target>
+            </trans-unit>
+            <trans-unit id="32">
+                <source>copy</source>
+                <target>Kopieren</target>
+            </trans-unit>
+            <trans-unit id="33">
+                <source>save</source>
+                <target>Herunterladen</target>
+            </trans-unit>
+            <trans-unit id="34">
+                <source>delete</source>
+                <target>Löschen</target>
+            </trans-unit>
+            <trans-unit id="35">
+                <source>confirm delete</source>
+                <target>Wollen Sie die ausgewählten Einträge wirklich löschen?</target>
+            </trans-unit>
+            <trans-unit id="36">
+                <source>confirm delete confirm</source>
+                <target>Ja</target>
+            </trans-unit>
+            <trans-unit id="37">
+                <source>confirm delete cancel</source>
+                <target>Nein</target>
+            </trans-unit>
+            <trans-unit id="38">
+                <source>cancel</source>
+                <target>Abbrechen</target>
+            </trans-unit>
+            <trans-unit id="39">
+                <source>actions</source>
+                <target>Aktionen</target>
+            </trans-unit>
+            <trans-unit id="40">
+                <source>rating</source>
+                <target>Bewertung</target>
+            </trans-unit>
+            <trans-unit id="41">
+                <source>list sort order</source>
+                <target>Reihenfolge</target>
+            </trans-unit>
+            <trans-unit id="42">
+                <source>ascending</source>
+                <target>aufsteigend</target>
+            </trans-unit>
+            <trans-unit id="43">
+                <source>descending</source>
+                <target>absteigend</target>
+            </trans-unit>
+            <trans-unit id="no selection">
+                <source>no selection</source>
+                <target>Keine Einträge ausgewählt</target>
+            </trans-unit>
+            <trans-unit id="execute">
+                <source>execute</source>
+                <target>Aktion ausführen</target>
+            </trans-unit>
+            <trans-unit id="rubrics">
+                <source>Rubrics</source>
+                <target>Rubriken</target>
+            </trans-unit>
+            <trans-unit id="room">
+                <source>Room</source>
+                <target>{0}Raum|{1}Räume</target>
+            </trans-unit>
+            <trans-unit id="project">
+                <source>Project</source>
+                <target>{0}Projektraum|{1}Projekträume</target>
+            </trans-unit>
+            <trans-unit id="institution">
+                <source>Institution</source>
+                <target>{0}Institution|{1}Institutionen</target>
+            </trans-unit>
+            <trans-unit id="markdone">
+                <source>markdone</source>
+                <target>Einträge als "erledigt" markieren</target>
+            </trans-unit>
+            <trans-unit id="markinprogress">
+                <source>markinprogress</source>
+                <target>Einträge als "in Bearbeitung" markieren</target>
+            </trans-unit>
+            <trans-unit id="markpending">
+                <source>markpending</source>
+                <target>Einträge als "nicht bearbeitet" markieren</target>
+            </trans-unit>
+            <trans-unit id="marktodostatus">
+                <source>marktodostatus</source>
+                <target>Einträge als "%status%" markieren</target>
+            </trans-unit>
+            <trans-unit id="time">
+                <source>time</source>
+                <target>Zeit</target>
+            </trans-unit>
+            <trans-unit id="place">
+                <source>place</source>
+                <target>Ort</target>
+            </trans-unit>
+            <trans-unit id="copy">
+                <source>Copy</source>
+                <target>Kopie</target>
+            </trans-unit>
+            <trans-unit id="mycopies">
+                <source>Copies</source>
+                <target>Meine Kopien</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
